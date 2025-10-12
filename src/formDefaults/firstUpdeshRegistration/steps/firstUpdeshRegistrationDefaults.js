@@ -1,0 +1,327 @@
+const getLoggedInUser = () => {
+  if (typeof window === "undefined") {
+    return null;
+  }
+  try {
+    return JSON.parse(window.localStorage.getItem("user") ?? "null");
+  } catch (error) {
+    console.error("Failed to parse stored user", error);
+    return null;
+  }
+};
+
+const loggedInUser = getLoggedInUser();
+const role = loggedInUser?.role ?? null;
+const branch = loggedInUser?.branch ?? "";
+const centre = loggedInUser?.centre ?? "";
+
+export const firstUpdeshRegistrationDefaults = {
+  applicant: {
+    gender: "female",
+    maritalStatus: "unmarried",
+    prefix: "SH",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    uid: "",
+    biometric: true,
+    dateOfRegistrationAsJigyasu: null,
+    caste: "GN",
+    healthStatus: "healthy",
+    phone: {
+      code: "+91",
+      number: "",
+    },
+    email: "",
+    involvedInPolitics: "no",
+    preliminaryBooks: {
+      jigyasa: false,
+      matDarshan: false,
+      catechism: false,
+    },
+    dateOfBirth: {
+      date: null,
+      years: 0,
+      months: 0,
+    },
+    appliedEarlier: "No",
+    letterNo: "",
+    replyGivenBySabha: "",
+    dateOfLetter: null,
+    alreadyInitiated: {
+      acknowledged: false,
+      initiatedAt: null,
+      initiatedBy: "",
+      placeOfInitiation: "",
+      reasonToRelinquish: "",
+    },
+    currentAddress: {
+      houseNo: "",
+      landmark: "",
+      city: { code: "", name: "" },
+      state: { code: "", name: "" },
+      country: { code: "IN", name: "India" },
+      pincode: "",
+    },
+    permanentAddress: {
+      houseNo: "",
+      landmark: "",
+      city: { code: "", name: "" },
+      state: { code: "", name: "" },
+      country: { code: "", name: "" },
+      pincode: "",
+    },
+    qualification: {
+      literacy: "literate",
+      degree: { code: "", name: "" },
+      degreeName: "",
+      specialization: "",
+      place: "",
+    },
+    occupation: {
+      type: "service",
+      reason: "",
+      post: "",
+      department: "",
+      place: "",
+      monthlyIncome: "",
+      businessType: "",
+      businessPlace: "",
+      ownershipType: "self",
+      withWhom: "",
+    },
+    currentBranchDetails: {
+      audioSatsangAttendance: {
+        morning: 0,
+        evening: 0,
+        total_count: 0,
+      },
+      sevaInformation: {
+        participatedInSeva: "yes",
+        sevaDetails: "",
+      },
+      branchSecretaryDetails: {
+        prefix: "SH",
+        firstName: loggedInUser?.firstName || "Sanjay",
+        middleName: loggedInUser?.middleName || "",
+        lastName: loggedInUser?.lastName || "Srivastava",
+        mobileNumber: loggedInUser?.phone?.number || "1234567890",
+        email: loggedInUser?.email || "test123@gmail.com",
+        currentAddress: {
+          houseNo: loggedInUser?.houseNo || "Test house no.",
+          landmark: loggedInUser?.landmark || "Test landmark",
+          city: loggedInUser?.city || "agra",
+          state: loggedInUser?.state || "Uttar Pradesh",
+          country: loggedInUser?.country || null,
+          pincode: loggedInUser?.pincode || "123456",
+        },
+      },
+      relatedToBranchSecretary: "no",
+      disttSecretaryDetails: {
+        prefix: "SH",
+        firstName: loggedInUser?.firstName || "Sanjay Distt Secretary",
+        middleName: loggedInUser?.middleName || "",
+        lastName: loggedInUser?.lastName || "Srivastava",
+        currentAddress: {
+          houseNo: loggedInUser?.houseNo || "Distt Sec Test house no.",
+          landmark: loggedInUser?.landmark || "Distt Sec Test landmark",
+          city: loggedInUser?.city || "Delhi",
+          state: loggedInUser?.state || "Delhi",
+          country: loggedInUser?.country || null,
+          pincode: loggedInUser?.pincode || "92345",
+        },
+      },
+    },
+    currentCentreDetails: {
+      audioSatsangAttendance: {
+        morning: 0,
+        evening: 0,
+        total_count: 0,
+      },
+      sevaInformation: {
+        participatedInSeva: "yes",
+        sevaDetails: "",
+      },
+      centreInchargeDetails: {
+        prefix: "SH",
+        firstName: loggedInUser?.firstName || "Sanjay Centre Incharge",
+        middleName: loggedInUser?.middleName || "",
+        lastName: loggedInUser?.lastName || "Srivastava",
+        mobileNumber: loggedInUser?.phone?.number || "1234567890",
+        email: loggedInUser?.email || "test123@gmail.com",
+        currentAddress: {
+          houseNo: loggedInUser?.houseNo || "Test house no.",
+          landmark: loggedInUser?.landmark || "Test landmark",
+          city: loggedInUser?.city || "agra",
+          state: loggedInUser?.state || "Uttar Pradesh",
+          country: loggedInUser?.country || null,
+          pincode: loggedInUser?.pincode || "123456",
+        },
+      },
+      branchSecretaryDetails: {
+        prefix: "SH",
+        firstName: loggedInUser?.firstName || "Sanjay Branch Secretary",
+        middleName: loggedInUser?.middleName || "",
+        lastName: loggedInUser?.lastName || "Srivastava",
+        currentAddress: {
+          houseNo: loggedInUser?.houseNo || "Branch Sec Test house no.",
+          landmark: loggedInUser?.landmark || "Branch Sec Test landmark",
+          city: loggedInUser?.city || "agra",
+          state: loggedInUser?.state || "Uttar Pradesh",
+          country: loggedInUser?.country || null,
+          pincode: loggedInUser?.pincode || "282005",
+        },
+      },
+      relatedToCentreIncharge: "no",
+    },
+    educationFromDei: {
+      acknowledged: "yes",
+      khetAttendance: 0,
+      satsangAttendance: 0,
+    },
+    satsangAttendances: {
+      fromChildhoodToAdult: [
+        {
+          nameOfBranchCentre: "",
+          audioESatsangAttendance: 0,
+          videoESatsangAttendance: 0,
+          branchSatsangAttendance: 0,
+          periodFrom: null,
+          periodTo: null,
+        },
+      ],
+      adultTillJigyasu: [
+        {
+          nameOfBranchCentre: "",
+          audioESatsangAttendance: 0,
+          videoESatsangAttendance: 0,
+          branchSatsangAttendance: 0,
+          periodFrom: null,
+          periodTo: null,
+        },
+      ],
+      fromJigyasuToCurrent: [
+        {
+          nameOfBranchCentre: "",
+          audioESatsangAttendance: 0,
+          videoESatsangAttendance: 0,
+          branchSatsangAttendance: 0,
+          periodFrom: null,
+          periodTo: null,
+        },
+      ],
+    },
+    dayalbaghVisits: {
+      everVisited: "yes",
+      noOfVisits: 0,
+      numDaysStayed: 0,
+      date: null,
+      lastVisitDate: null,
+      numOfDaysLastVisit: 0,
+    },
+    satsangToursDetails: {
+      everVisited: "yes",
+      satsangTours: [
+        {
+          date: null,
+          location: "",
+        },
+      ],
+    },
+  },
+  father: {
+    prefix: "SH",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    occupation: {
+      type: "service",
+      reason: "",
+      post: "",
+      department: "",
+      place: "",
+      monthlyIncome: "",
+      businessType: "",
+      ownershipType: "",
+    },
+    satsangi: "satsangi",
+    initiationDetails: {
+      initiatedBy: "",
+      initiatedFrom: "dayalbagh",
+      dateOfInitiation: null,
+      placeOfInitiation: "",
+    },
+  },
+  mother: {
+    prefix: "SMT",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    occupation: {
+      type: "unemployed",
+      reason: "",
+      post: "",
+      department: "",
+      place: "",
+      salary: "",
+      businessType: "",
+      businessPlace: "",
+      ownershipType: "",
+    },
+    satsangi: "satsangi",
+    initiationDetails: {
+      initiatedBy: "",
+      initiatedFrom: "dayalbagh",
+      dateOfInitiation: null,
+      placeOfInitiation: "",
+    },
+  },
+  spouse: {
+    prefix: "",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    occupation: {
+      type: "service",
+      reason: "",
+      post: "",
+      department: "",
+      place: "",
+      salary: "",
+      businessType: "",
+      businessPlace: "",
+      ownershipType: "",
+    },
+    satsangi: "satsangi",
+    inititationDetails: {
+      initiatedBy: "",
+      initiatedFrom: "dayalbagh",
+      dateOfInitiation: null,
+      placeOfInitiation: "",
+    },
+  },
+  guardian: {
+    prefix: "SH",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    occupation: {
+      type: "service",
+      reason: "",
+      post: "",
+      department: "",
+      place: "",
+      salary: "",
+      businessType: "",
+      businessPlace: "",
+      ownershipType: "",
+    },
+    satsangi: "satsangi",
+    initiationDetails: {
+      initiatedBy: "",
+      initiatedFrom: "dayalbagh",
+      dateOfInitiation: null,
+      placeOfInitiation: "",
+    },
+  },
+};
