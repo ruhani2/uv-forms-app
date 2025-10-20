@@ -237,8 +237,8 @@ model Application {
   email                     Email?
   phoneNumber               PhoneNumber?
   occupation                Occupation?
-  qualification             Qualification        @relation("ApplicationQualification")
-  appliedEarlier            AppliedEarlierDetail @relation("ApplicationAppliedEarlierDetail")
+  qualification             Qualification?
+  appliedEarlier            AppliedEarlierDetail?
   alreadyInitiated          InitiationDetail?
   addresses                 Address[]
   relatives                 Relative[]
@@ -281,7 +281,7 @@ model AppliedEarlierDetail {
   letterNo          String?
   dateOfLetter      DateTime?
   applicationId     Int      @unique
-  application       Application @relation("ApplicationAppliedEarlierDetail", fields: [applicationId], references: [id], map: "applied_earlier_application_fkey")
+  application       Application? @relation(fields: [applicationId], references: [id])
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
 }
@@ -313,6 +313,6 @@ model Qualification {
   specialization String?
   place          String?
   applicationId  Int      @unique
-  application    Application   @relation("ApplicationQualification", fields: [applicationId], references: [id], map: "qualification_application_fkey")
+  application    Application? @relation(fields: [applicationId], references: [id])
   updatedAt      DateTime @updatedAt
 }
