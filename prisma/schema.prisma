@@ -21,63 +21,52 @@ model User {
   middleName              String?
   lastName                String?
   password                String
-
-  role                    Role?     @relation(fields: [roleId], references: [id])
-  roleId                  Int?
+  role                    Role      @relation(fields: [roleId], references: [id])
+  roleId                  Int
   emails                  Email[]
   addresses               Address[]
   phoneNumbers            PhoneNumber[]
-  facility                Facility? @relation(fields: [facilityId], references: [id])
-  facilityId              Int?
-
+  facility                Facility  @relation(fields: [facilityId], references: [id])
+  facilityId              Int
+  createdApplications     Application[] @relation("CreatedApplications")
+  updatedApplications     Application[] @relation("UpdatedApplications")
   createdAt               DateTime  @default(now())
   updatedAt               DateTime  @updatedAt
   deactivatedAt           DateTime?
 }
 
 model Email {
-  id            Int       @id @default(autoincrement())
-  emailAddress  String    @unique
-
+  id            Int          @id @default(autoincrement())
+  emailAddress  String       @unique
   userId        Int?
-  user          User?     @relation(fields: [userId], references: [id])
-
-  applicationId Int?      @unique
+  user          User?        @relation(fields: [userId], references: [id])
+  applicationId Int?         @unique
   application   Application? @relation(fields: [applicationId], references: [id])
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
 }
 
 model Role {
-  id            Int       @id @default(autoincrement())
-  key           String    @unique
-  name          String
-
-  users         User[]
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  id        Int      @id @default(autoincrement())
+  key       String   @unique
+  name      String
+  users     User[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model Facility {
-  id                      Int      @id @default(autoincrement())
-  name                    String   @unique
-  facilityType            String
-  region                  String
-  affiliationCode         String   @unique
-
-  parent                  Facility?  @relation("FacilityAffiliation", fields: [parentAffiliationCode], references: [affiliationCode])
-  parentAffiliationCode   String?
-  children                Facility[] @relation("FacilityAffiliation")
-
-  users                   User[]
-  satsangAttendances      SatsangAttendance[]
-  bhandaras               Bhandara[]
-
-  createdAt               DateTime @default(now())
-  updatedAt               DateTime @updatedAt
-  deactivatedAt           DateTime?
+  id                 Int      @id @default(autoincrement())
+  name               String   @unique
+  facilityType       String
+  region             String
+  affiliationCode    String   @unique
+  users              User[]
+  bhandaras          Bhandara[]
+  satsangAttendances SatsangAttendance[]
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+  deactivatedAt      DateTime?
 }
 
 model Bhandara {
@@ -85,150 +74,128 @@ model Bhandara {
   name         String
   key          String   @unique
   bhandaraDate DateTime
-
-  facility     Facility @relation(fields: [facilityId], references: [id])
   facilityId   Int
-
+  facility     Facility @relation(fields: [facilityId], references: [id])
   applications Application[]
-
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
 }
 
 model Country {
-  id            Int       @id @default(autoincrement())
-  code          String    @unique
-  name          String
-
-  states        State[]
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  id        Int       @id @default(autoincrement())
+  code      String    @unique
+  name      String
+  states    State[]
+  addresses Address[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
 }
 
 model State {
-  id            Int       @id @default(autoincrement())
-  code          String    @unique
-  name          String
-
-  country       Country   @relation(fields: [countryId], references: [id])
-  countryId     Int
-  cities        City[]
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  id        Int       @id @default(autoincrement())
+  code      String    @unique
+  name      String
+  countryId Int
+  country   Country   @relation(fields: [countryId], references: [id])
+  cities    City[]
+  addresses Address[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
 }
 
 model City {
-  id            Int       @id @default(autoincrement())
-  code          String    @unique
-  name          String
-
-  state         State     @relation(fields: [stateId], references: [id])
-  stateId       Int
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  id        Int       @id @default(autoincrement())
+  code      String    @unique
+  name      String
+  stateId   Int
+  state     State     @relation(fields: [stateId], references: [id])
+  addresses Address[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
 }
 
 model PhoneNumber {
-  id            Int       @id @default(autoincrement())
+  id            Int          @id @default(autoincrement())
   code          String
   number        String
-
-  user          User?     @relation(fields: [userId], references: [id])
   userId        Int?
+  user          User?        @relation(fields: [userId], references: [id])
+  applicationId Int?         @unique
   application   Application? @relation(fields: [applicationId], references: [id])
-  applicationId Int?      @unique
-
-  createdAt     DateTime  @default(now())
-  updatedAt     DateTime  @updatedAt
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
 }
 
 model Address {
   id            Int       @id @default(autoincrement())
-  houseNo       String
-  landmark      String?
-  pincode       Int
-  addressType   String
+  houseNo       String?
+  landmark      String
+  pincode       Int?
+  addressType   String?
   sameAsCurrent Boolean   @default(false)
-
   country       Country   @relation(fields: [countryId], references: [id])
   countryId     Int
   state         State     @relation(fields: [stateId], references: [id])
   stateId       Int
   city          City      @relation(fields: [cityId], references: [id])
   cityId        Int
-  userId        Int?
-  user          User?     @relation(fields: [userId], references: [id])
-  applicationId Int?
-  application   Application? @relation(fields: [applicationId], references: [id])
-
+  userId        Int
+  user          User      @relation(fields: [userId], references: [id])
+  applicationId Int
+  application   Application @relation(fields: [applicationId], references: [id])
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
 }
 
 model Relative {
-  id                    Int      @id @default(autoincrement())
-  title                 String
-  firstName             String
-  middleName            String?
-  lastName              String
-  relationshipType      String
-
-  initiatedFromDetail   InitiatedFromDetail @relation(fields: [initiatedFromDetailId], references: [id])
-  initiatedFromDetailId Int
-
-  occupation            Occupation? @relation(fields: [occupationId], references: [id])
-  occupationId          Int?
-
-  applicationId         Int
-  application           Application @relation(fields: [applicationId], references: [id])
-
-  createdAt             DateTime @default(now())
-  updatedAt             DateTime @updatedAt
+  id               Int      @id @default(autoincrement())
+  title            String
+  firstName        String
+  middleName       String?
+  lastName         String
+  relationshipType String
+  occupation       Occupation?
+  applicationId    Int
+  application      Application @relation(fields: [applicationId], references: [id])
+  initiationDetail InitiationDetail?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
 }
 
 model SatsangAttendance {
-  id                              Int        @id @default(autoincrement())
-  audioSatsangAttendanceCount     Int
-  videoESatsangAttendanceCount    Int
-  facilitySatsangAttendanceCount  Int
-  fromDate                        DateTime
-  toDate                          DateTime
-
-  applicationId                   Int?
-  application                     Application? @relation(fields: [applicationId], references: [id])
-
-  facility                        Facility   @relation(fields: [facilityId], references: [id])
-  facilityId                      Int
-
-  createdAt                       DateTime @default(now())
-  updatedAt                       DateTime @updatedAt
+  id                             Int      @id @default(autoincrement())
+  audioSatsangAttendanceCount    Int
+  videoESatsangAttendanceCount   Int
+  facilitySatsangAttendanceCount Int
+  fromDate                       DateTime
+  toDate                         DateTime
+  attendanceFor                  String
+  applicationId                  Int
+  application                    Application @relation(fields: [applicationId], references: [id])
+  facility                       Facility    @relation(fields: [facilityId], references: [id])
+  facilityId                     Int
+  createdAt                      DateTime @default(now())
+  updatedAt                      DateTime @updatedAt
 }
 
 model DeiAttendance {
-  id                      Int      @id @default(autoincrement())
-  khetAttendanceCount     Int
-  satsangAttendanceCount  Int
-  fromDate                DateTime
-  toDate                  DateTime
-
-  applicationId           Int?
-  application             Application? @relation(fields: [applicationId], references: [id])
-
-  createdAt               DateTime @default(now())
-  updatedAt               DateTime @updatedAt
+  id                     Int      @id @default(autoincrement())
+  khetAttendanceCount    Int
+  satsangAttendanceCount Int
+  fromDate               DateTime
+  toDate                 DateTime
+  applicationId          Int
+  application            Application @relation(fields: [applicationId], references: [id])
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
 }
 
 model SatsangTour {
   id            Int      @id @default(autoincrement())
   tourDate      DateTime
   tourLocation  String
-
-  applicationId Int?
-  application   Application? @relation(fields: [applicationId], references: [id])
-
+  applicationId Int
+  application   Application @relation(fields: [applicationId], references: [id])
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt
 }
@@ -239,10 +206,8 @@ model DayalbaghVisit {
   numberOfDaysStayed      Int
   lastVisitDate           DateTime
   numberOfDaysOfLastVisit Int
-
-  applicationId           Int?
-  application             Application? @relation(fields: [applicationId], references: [id])
-
+  applicationId           Int
+  application             Application @relation(fields: [applicationId], references: [id])
   createdAt               DateTime @default(now())
   updatedAt               DateTime @updatedAt
 }
@@ -254,109 +219,100 @@ model Application {
   title                     String
   firstName                 String
   middleName                String?
-  lastName                  String
-  applicantStatus           String
+  lastName                  String?
+  applicationStatus         String
   uid                       String   @unique
-  isBiometricAvailable      Boolean
+  isBiometricAvailable      Boolean  @default(false)
   jigyasuRegistrationDate   DateTime
-  updeshRegistrationDate    DateTime?
-  approvedDate              DateTime?
   caste                     String
   healthStatus              String
-  connectedToPolitics       Boolean
-  // booksRead is a comma separated string
+  connectedToPolitics       Boolean  @default(false)
   booksRead                 String
   dateOfBirth               DateTime
   ageInYears                Int
   ageInMonths               Int
-  everStudiedFromDayalbagh  Boolean
-  everVistiedDayalbagh      Boolean
-  everAttendedTours         Boolean
-
-  email                     Email
-  phoneNumber               PhoneNumber
-  addresses                 Address[]
-
+  everStudiedFromDayalbagh  Boolean  @default(false)
+  everVistiedDayalbagh      Boolean  @default(false)
+  everAttendedTours         Boolean  @default(false)
+  email                     Email?
+  phoneNumber               PhoneNumber?
   occupation                Occupation?
   qualification             Qualification?
   appliedEarlier            AppliedEarlierDetail?
-
+  alreadyInitiated          InitiationDetail?
+  addresses                 Address[]
   relatives                 Relative[]
   satsangAttendances        SatsangAttendance[]
   deiAttendances            DeiAttendance[]
   satsangTours              SatsangTour[]
   dayalbaghVisits           DayalbaghVisit[]
-
-  initiatedFrom             InitiatedFromDetail @relation(fields: [initiatedFromId], references: [id])
-  initiatedFromId           Int      @unique
-
   bhandara                  Bhandara @relation(fields: [bhandaraId], references: [id])
   bhandaraId                Int
-  
-  createdBy                 String
-  updatedBy                 String
-
+  createdByUserId           Int
+  createdBy                 User     @relation("CreatedApplications", fields: [createdByUserId], references: [id])
+  updatedByUserId           Int
+  updatedBy                 User     @relation("UpdatedApplications", fields: [updatedByUserId], references: [id])
   createdAt                 DateTime @default(now())
   updatedAt                 DateTime @updatedAt
+  updeshRegistrationDate    DateTime
+  rejectedDate              DateTime?
+  approvedDate              DateTime?
 }
 
-model InitiatedFromDetail {
-  id                  Int      @id @default(autoincrement())
-  initiatedAt         DateTime
-  initiatedBy         String
-  place               String
-  reasonToRelinquish  String?
-
-  applicationId       Int
-  application         Application @relation(fields: [applicationId], references: [id])
-
-  createdAt           DateTime @default(now())
-  updatedAt           DateTime @updatedAt
+model InitiationDetail {
+  id                 Int          @id @default(autoincrement())
+  acknowledged       Boolean      @default(false)
+  initiatedAt        DateTime?
+  initiatedBy        String?
+  place              String?
+  reasonToRelinquish String?
+  applicationId      Int?         @unique
+  application        Application? @relation(fields: [applicationId], references: [id])
+  relativeId         Int?         @unique
+  relative           Relative?    @relation(fields: [relativeId], references: [id])
+  createdAt          DateTime     @default(now())
+  updatedAt          DateTime     @updatedAt
 }
 
 model AppliedEarlierDetail {
-  id                  Int      @id @default(autoincrement())
-  replyGivenBySabha   String
-  letterNo            String
-  dateOfLetter        DateTime
-
-  applicationId       Int     
-  application         Application @relation(fields: [applicationId], references: [id])
-
-  createdAt           DateTime @default(now())
-  updatedAt           DateTime @updatedAt
+  id                Int      @id @default(autoincrement())
+  acknowledged      Boolean  @default(false)
+  replyGivenBySabha String?
+  letterNo          String?
+  dateOfLetter      DateTime?
+  applicationId     Int      @unique
+  application       Application? @relation(fields: [applicationId], references: [id])
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
 }
 
 model Occupation {
-  id                    Int      @id @default(autoincrement())
-  type                  String
-  post                  String?
-  organization          String?
-  department            String?
-  place                 String?
-  monthlyIncome         Float?
-  typeOfBusiness        String?
-  ownershipType         String?
-  reasonOfUnemployment  String?
-
-  applicationId         Int?      @unique
-  application           Application? @relation(fields: [applicationId], references: [id])
-
-  createdAt             DateTime @default(now())
-  updatedAt             DateTime @updatedAt
+  id                   Int          @id @default(autoincrement())
+  type                 String
+  post                 String?
+  organization         String?
+  department           String?
+  place                String?
+  monthlyIncome        Float?
+  typeOfBusiness       String?
+  ownershipType        String?
+  reasonOfUnemployment String?
+  applicationId        Int?         @unique
+  application          Application? @relation(fields: [applicationId], references: [id])
+  relativeId           Int?         @unique
+  relative             Relative?    @relation(fields: [relativeId], references: [id])
+  createdAt            DateTime     @default(now())
+  updatedAt            DateTime     @updatedAt
 }
 
 model Qualification {
-  id              Int      @id @default(autoincrement())
-  canOnlySign     Boolean
-  degree          String?
-  degreeName      String?
-  specialization  String?
-  place           String?
-
-  applicationId   Int?      @unique
-  application     Application? @relation(fields: [applicationId], references: [id])
-
-  createdAt       DateTime @default(now())
-  updatedAt       DateTime @updatedAt
+  id             Int      @id @default(autoincrement())
+  canOnlySign    Boolean? @default(false)
+  degree         String?
+  degreeName     String?
+  specialization String?
+  place          String?
+  applicationId  Int      @unique
+  application    Application? @relation(fields: [applicationId], references: [id])
+  updatedAt      DateTime @updatedAt
 }
