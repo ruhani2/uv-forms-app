@@ -2,11 +2,13 @@
   "name": "uv-forms-app",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:seed:development": "NODE_ENV=development node prisma/seed.js"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

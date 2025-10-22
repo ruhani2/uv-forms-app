@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Abiramam",
+    "code": "IN"
+  },
+  {
+    "name": "Adirampattinam",
+    "code": "IN"
+  },
+  {
+    "name": "Aduthurai",
+    "code": "IN"
+  },
+  {
+    "name": "Alagapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Alandur",
+    "code": "IN"
+  },
+  {
+    "name": "Alanganallur",
+    "code": "IN"
+  },
+  {
+    "name": "Alangayam",
+    "code": "IN"
+  },
+  {
+    "name": "Alangudi",
+    "code": "IN"
+  },
+  {
+    "name": "Alangulam",
+    "code": "IN"
+  },
+  {
+    "name": "Alappakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Alwa Tirunagari",
+    "code": "IN"
+  },
+  {
+    "name": "Ambasamudram",
+    "code": "IN"
+  },
+  {
+    "name": "Ambattur",
+    "code": "IN"
+  },
+  {
+    "name": "Ambur",
+    "code": "IN"
+  },
+  {
+    "name": "Ammapettai",
+    "code": "IN"
+  },
+  {
+    "name": "Anamalais",
+    "code": "IN"
+  },
+  {
+    "name": "Andippatti",
+    "code": "IN"
+  },
+  {
+    "name": "Annamalainagar",
+    "code": "IN"
+  },
+  {
+    "name": "Annavasal",
+    "code": "IN"
+  },
+  {
+    "name": "Annur",
+    "code": "IN"
+  },
+  {
+    "name": "Anthiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Arakkonam",
+    "code": "IN"
+  },
+  {
+    "name": "Arantangi",
+    "code": "IN"
+  },
+  {
+    "name": "Arcot",
+    "code": "IN"
+  },
+  {
+    "name": "Arimalam",
+    "code": "IN"
+  },
+  {
+    "name": "Ariyalur",
+    "code": "IN"
+  },
+  {
+    "name": "Arni",
+    "code": "IN"
+  },
+  {
+    "name": "Arumbavur",
+    "code": "IN"
+  },
+  {
+    "name": "Arumuganeri",
+    "code": "IN"
+  },
+  {
+    "name": "Aruppukkottai",
+    "code": "IN"
+  },
+  {
+    "name": "Aruvankad",
+    "code": "IN"
+  },
+  {
+    "name": "Attayyampatti",
+    "code": "IN"
+  },
+  {
+    "name": "Attur",
+    "code": "IN"
+  },
+  {
+    "name": "Auroville",
+    "code": "IN"
+  },
+  {
+    "name": "Avadi",
+    "code": "IN"
+  },
+  {
+    "name": "Avinashi",
+    "code": "IN"
+  },
+  {
+    "name": "Ayakudi",
+    "code": "IN"
+  },
+  {
+    "name": "Ayyampettai",
+    "code": "IN"
+  },
+  {
+    "name": "Belur",
+    "code": "IN"
+  },
+  {
+    "name": "Bhavani",
+    "code": "IN"
+  },
+  {
+    "name": "Bodinayakkanur",
+    "code": "IN"
+  },
+  {
+    "name": "Chengam",
+    "code": "IN"
+  },
+  {
+    "name": "Chennai",
+    "code": "IN"
+  },
+  {
+    "name": "Chennimalai",
+    "code": "IN"
+  },
+  {
+    "name": "Chetput",
+    "code": "IN"
+  },
+  {
+    "name": "Chettipalaiyam",
+    "code": "IN"
+  },
+  {
+    "name": "Cheyyar",
+    "code": "IN"
+  },
+  {
+    "name": "Cheyyur",
+    "code": "IN"
+  },
+  {
+    "name": "Chidambaram",
+    "code": "IN"
+  },
+  {
+    "name": "Chingleput",
+    "code": "IN"
+  },
+  {
+    "name": "Chinna Salem",
+    "code": "IN"
+  },
+  {
+    "name": "Chinnamanur",
+    "code": "IN"
+  },
+  {
+    "name": "Chinnasekkadu",
+    "code": "IN"
+  },
+  {
+    "name": "Cholapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Coimbatore",
+    "code": "IN"
+  },
+  {
+    "name": "Colachel",
+    "code": "IN"
+  },
+  {
+    "name": "Cuddalore",
+    "code": "IN"
+  },
+  {
+    "name": "Cumbum",
+    "code": "IN"
+  },
+  {
+    "name": "Denkanikota",
+    "code": "IN"
+  },
+  {
+    "name": "Desur",
+    "code": "IN"
+  },
+  {
+    "name": "Devadanappatti",
+    "code": "IN"
+  },
+  {
+    "name": "Devakottai",
+    "code": "IN"
+  },
+  {
+    "name": "Dhali",
+    "code": "IN"
+  },
+  {
+    "name": "Dharapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Dharmapuri",
+    "code": "IN"
+  },
+  {
+    "name": "Dindigul",
+    "code": "IN"
+  },
+  {
+    "name": "Dusi",
+    "code": "IN"
+  },
+  {
+    "name": "Elayirampannai",
+    "code": "IN"
+  },
+  {
+    "name": "Elumalai",
+    "code": "IN"
+  },
+  {
+    "name": "Eral",
+    "code": "IN"
+  },
+  {
+    "name": "Eraniel",
+    "code": "IN"
+  },
+  {
+    "name": "Erode",
+    "code": "IN"
+  },
+  {
+    "name": "Erumaippatti",
+    "code": "IN"
+  },
+  {
+    "name": "Ettaiyapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Gandhi Nagar",
+    "code": "IN"
+  },
+  {
+    "name": "Gangaikondan",
+    "code": "IN"
+  },
+  {
+    "name": "Gangavalli",
+    "code": "IN"
+  },
+  {
+    "name": "Gingee",
+    "code": "IN"
+  },
+  {
+    "name": "Gobichettipalayam",
+    "code": "IN"
+  },
+  {
+    "name": "Gudalur",
+    "code": "IN"
+  },
+  {
+    "name": "Gudiyatham",
+    "code": "IN"
+  },
+  {
+    "name": "Guduvancheri",
+    "code": "IN"
+  },
+  {
+    "name": "Gummidipundi",
+    "code": "IN"
+  },
+  {
+    "name": "Harur",
+    "code": "IN"
+  },
+  {
+    "name": "Hosur",
+    "code": "IN"
+  },
+  {
+    "name": "Idappadi",
+    "code": "IN"
+  },
+  {
+    "name": "Ilampillai",
+    "code": "IN"
+  },
+  {
+    "name": "Iluppur",
+    "code": "IN"
+  },
+  {
+    "name": "Injambakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Irugur",
+    "code": "IN"
+  },
+  {
+    "name": "Jalakandapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Jalarpet",
+    "code": "IN"
+  },
+  {
+    "name": "Jayamkondacholapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Kadambur",
+    "code": "IN"
+  },
+  {
+    "name": "Kadayanallur",
+    "code": "IN"
+  },
+  {
+    "name": "Kalakkadu",
+    "code": "IN"
+  },
+  {
+    "name": "Kalavai",
+    "code": "IN"
+  },
+  {
+    "name": "Kallakkurichchi",
+    "code": "IN"
+  },
+  {
+    "name": "Kallidaikurichi",
+    "code": "IN"
+  },
+  {
+    "name": "Kallupatti",
+    "code": "IN"
+  },
+  {
+    "name": "Kalugumalai",
+    "code": "IN"
+  },
+  {
+    "name": "Kamuthi",
+    "code": "IN"
+  },
+  {
+    "name": "Kanadukattan",
+    "code": "IN"
+  },
+  {
+    "name": "Kancheepuram",
+    "code": "IN"
+  },
+  {
+    "name": "Kanchipuram",
+    "code": "IN"
+  },
+  {
+    "name": "Kangayam",
+    "code": "IN"
+  },
+  {
+    "name": "Kanniyakumari",
+    "code": "IN"
+  },
+  {
+    "name": "Karaikkudi",
+    "code": "IN"
+  },
+  {
+    "name": "Karamadai",
+    "code": "IN"
+  },
+  {
+    "name": "Karambakkudi",
+    "code": "IN"
+  },
+  {
+    "name": "Kariapatti",
+    "code": "IN"
+  },
+  {
+    "name": "Karumbakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Karur",
+    "code": "IN"
+  },
+  {
+    "name": "Katpadi",
+    "code": "IN"
+  },
+  {
+    "name": "Kattivakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Kattupputtur",
+    "code": "IN"
+  },
+  {
+    "name": "Kaveripatnam",
+    "code": "IN"
+  },
+  {
+    "name": "Kayalpattinam",
+    "code": "IN"
+  },
+  {
+    "name": "Kayattar",
+    "code": "IN"
+  },
+  {
+    "name": "Keelakarai",
+    "code": "IN"
+  },
+  {
+    "name": "Kelamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kil Bhuvanagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Kilvelur",
+    "code": "IN"
+  },
+  {
+    "name": "Kiranur",
+    "code": "IN"
+  },
+  {
+    "name": "Kodaikanal",
+    "code": "IN"
+  },
+  {
+    "name": "Kodumudi",
+    "code": "IN"
+  },
+  {
+    "name": "Kombai",
+    "code": "IN"
+  },
+  {
+    "name": "Konganapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Koothanallur",
+    "code": "IN"
+  },
+  {
+    "name": "Koradachcheri",
+    "code": "IN"
+  },
+  {
+    "name": "Korampallam",
+    "code": "IN"
+  },
+  {
+    "name": "Kotagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Kottaiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Kovilpatti",
+    "code": "IN"
+  },
+  {
+    "name": "Krishnagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Kulattur",
+    "code": "IN"
+  },
+  {
+    "name": "Kulittalai",
+    "code": "IN"
+  },
+  {
+    "name": "Kumaralingam",
+    "code": "IN"
+  },
+  {
+    "name": "Kumbakonam",
+    "code": "IN"
+  },
+  {
+    "name": "Kunnattur",
+    "code": "IN"
+  },
+  {
+    "name": "Kurinjippadi",
+    "code": "IN"
+  },
+  {
+    "name": "Kuttalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kuzhithurai",
+    "code": "IN"
+  },
+  {
+    "name": "Lalgudi",
+    "code": "IN"
+  },
+  {
+    "name": "Madambakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Madipakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Madukkarai",
+    "code": "IN"
+  },
+  {
+    "name": "Madukkur",
+    "code": "IN"
+  },
+  {
+    "name": "Madurai",
+    "code": "IN"
+  },
+  {
+    "name": "Madurantakam",
+    "code": "IN"
+  },
+  {
+    "name": "Mallapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Mallasamudram",
+    "code": "IN"
+  },
+  {
+    "name": "Mallur",
+    "code": "IN"
+  },
+  {
+    "name": "Manali",
+    "code": "IN"
+  },
+  {
+    "name": "Manalurpettai",
+    "code": "IN"
+  },
+  {
+    "name": "Manamadurai",
+    "code": "IN"
+  },
+  {
+    "name": "Manappakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Manapparai",
+    "code": "IN"
+  },
+  {
+    "name": "Manavalakurichi",
+    "code": "IN"
+  },
+  {
+    "name": "Mandapam",
+    "code": "IN"
+  },
+  {
+    "name": "Mangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Mannargudi",
+    "code": "IN"
+  },
+  {
+    "name": "Marakkanam",
+    "code": "IN"
+  },
+  {
+    "name": "Marandahalli",
+    "code": "IN"
+  },
+  {
+    "name": "Masinigudi",
+    "code": "IN"
+  },
+  {
+    "name": "Mattur",
+    "code": "IN"
+  },
+  {
+    "name": "Mayiladuthurai",
+    "code": "IN"
+  },
+  {
+    "name": "Melur",
+    "code": "IN"
+  },
+  {
+    "name": "Mettuppalaiyam",
+    "code": "IN"
+  },
+  {
+    "name": "Mettur",
+    "code": "IN"
+  },
+  {
+    "name": "Minjur",
+    "code": "IN"
+  },
+  {
+    "name": "Mohanur",
+    "code": "IN"
+  },
+  {
+    "name": "Mudukulattur",
+    "code": "IN"
+  },
+  {
+    "name": "Mulanur",
+    "code": "IN"
+  },
+  {
+    "name": "Musiri",
+    "code": "IN"
+  },
+  {
+    "name": "Muttupet",
+    "code": "IN"
+  },
+  {
+    "name": "Naduvattam",
+    "code": "IN"
+  },
+  {
+    "name": "Nagapattinam",
+    "code": "IN"
+  },
+  {
+    "name": "Nagercoil",
+    "code": "IN"
+  },
+  {
+    "name": "Namagiripettai",
+    "code": "IN"
+  },
+  {
+    "name": "Namakkal",
+    "code": "IN"
+  },
+  {
+    "name": "Nambiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Nambutalai",
+    "code": "IN"
+  },
+  {
+    "name": "Nandambakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Nangavalli",
+    "code": "IN"
+  },
+  {
+    "name": "Nangilickondan",
+    "code": "IN"
+  },
+  {
+    "name": "Nanguneri",
+    "code": "IN"
+  },
+  {
+    "name": "Nannilam",
+    "code": "IN"
+  },
+  {
+    "name": "Naravarikuppam",
+    "code": "IN"
+  },
+  {
+    "name": "Nattam",
+    "code": "IN"
+  },
+  {
+    "name": "Nattarasankottai",
+    "code": "IN"
+  },
+  {
+    "name": "Needamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Neelankarai",
+    "code": "IN"
+  },
+  {
+    "name": "Negapatam",
+    "code": "IN"
+  },
+  {
+    "name": "Nellikkuppam",
+    "code": "IN"
+  },
+  {
+    "name": "Nilakottai",
+    "code": "IN"
+  },
+  {
+    "name": "Nilgiris",
+    "code": "IN"
+  },
+  {
+    "name": "Odugattur",
+    "code": "IN"
+  },
+  {
+    "name": "Omalur",
+    "code": "IN"
+  },
+  {
+    "name": "Ooty",
+    "code": "IN"
+  },
+  {
+    "name": "Padmanabhapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Palakkodu",
+    "code": "IN"
+  },
+  {
+    "name": "Palamedu",
+    "code": "IN"
+  },
+  {
+    "name": "Palani",
+    "code": "IN"
+  },
+  {
+    "name": "Palavakkam",
+    "code": "IN"
+  },
+  {
+    "name": "Palladam",
+    "code": "IN"
+  },
+  {
+    "name": "Pallappatti",
+    "code": "IN"
+  },
+  {
+    "name": "Pallattur",
+    "code": "IN"
+  },
+  {
+    "name": "Pallavaram",
+    "code": "IN"
+  },
+  {
+    "name": "Pallikondai",
+    "code": "IN"
+  },
+  {
+    "name": "Pallipattu",
+    "code": "IN"
+  },
+  {
+    "name": "Pallippatti",
+    "code": "IN"
+  },
+  {
+    "name": "Panruti",
+    "code": "IN"
+  },
+  {
+    "name": "Papanasam",
+    "code": "IN"
+  },
+  {
+    "name": "Papireddippatti",
+    "code": "IN"
+  },
+  {
+    "name": "Papparappatti",
+    "code": "IN"
+  },
+  {
+    "name": "Paramagudi",
+    "code": "IN"
+  },
+  {
+    "name": "Pattukkottai",
+    "code": "IN"
+  },
+  {
+    "name": "Pennadam",
+    "code": "IN"
+  },
+  {
+    "name": "Pennagaram",
+    "code": "IN"
+  },
+  {
+    "name": "Pennathur",
+    "code": "IN"
+  },
+  {
+    "name": "Peraiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Perambalur",
+    "code": "IN"
+  },
+  {
+    "name": "Peranamallur",
+    "code": "IN"
+  },
+  {
+    "name": "Peranampattu",
+    "code": "IN"
+  },
+  {
+    "name": "Peravurani",
+    "code": "IN"
+  },
+  {
+    "name": "Periyakulam",
+    "code": "IN"
+  },
+  {
+    "name": "Periyanayakkanpalaiyam",
+    "code": "IN"
+  },
+  {
+    "name": "Periyanegamam",
+    "code": "IN"
+  },
+  {
+    "name": "Periyapatti",
+    "code": "IN"
+  },
+  {
+    "name": "Periyapattinam",
+    "code": "IN"
+  },
+  {
+    "name": "Perundurai",
+    "code": "IN"
+  },
+  {
+    "name": "Perungudi",
+    "code": "IN"
+  },
+  {
+    "name": "Perur",
+    "code": "IN"
+  },
+  {
+    "name": "Pollachi",
+    "code": "IN"
+  },
+  {
+    "name": "Polur",
+    "code": "IN"
+  },
+  {
+    "name": "Ponnamaravati",
+    "code": "IN"
+  },
+  {
+    "name": "Ponneri",
+    "code": "IN"
+  },
+  {
+    "name": "Poonamalle",
+    "code": "IN"
+  },
+  {
+    "name": "Porur",
+    "code": "IN"
+  },
+  {
+    "name": "Pudukkottai",
+    "code": "IN"
+  },
+  {
+    "name": "Puduppatti",
+    "code": "IN"
+  },
+  {
+    "name": "Pudur",
+    "code": "IN"
+  },
+  {
+    "name": "Puduvayal",
+    "code": "IN"
+  },
+  {
+    "name": "Puliyangudi",
+    "code": "IN"
+  },
+  {
+    "name": "Puliyur",
+    "code": "IN"
+  },
+  {
+    "name": "Pullambadi",
+    "code": "IN"
+  },
+  {
+    "name": "Punjai Puliyampatti",
+    "code": "IN"
+  },
+  {
+    "name": "Rajapalaiyam",
+    "code": "IN"
+  },
+  {
+    "name": "Ramanathapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Rameswaram",
+    "code": "IN"
+  },
+  {
+    "name": "Ranipet",
+    "code": "IN"
+  },
+  {
+    "name": "Rasipuram",
+    "code": "IN"
+  },
+  {
+    "name": "Saint Thomas Mount",
+    "code": "IN"
+  },
+  {
+    "name": "Salem",
+    "code": "IN"
+  },
+  {
+    "name": "Sathankulam",
+    "code": "IN"
+  },
+  {
+    "name": "Sathyamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Sattur",
+    "code": "IN"
+  },
+  {
+    "name": "Sayalkudi",
+    "code": "IN"
+  },
+  {
+    "name": "Seven Pagodas",
+    "code": "IN"
+  },
+  {
+    "name": "Sholinghur",
+    "code": "IN"
+  },
+  {
+    "name": "Singanallur",
+    "code": "IN"
+  },
+  {
+    "name": "Singapperumalkovil",
+    "code": "IN"
+  },
+  {
+    "name": "Sirkazhi",
+    "code": "IN"
+  },
+  {
+    "name": "Sirumugai",
+    "code": "IN"
+  },
+  {
+    "name": "Sivaganga",
+    "code": "IN"
+  },
+  {
+    "name": "Sivagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Sivakasi",
+    "code": "IN"
+  },
+  {
+    "name": "Srimushnam",
+    "code": "IN"
+  },
+  {
+    "name": "Sriperumbudur",
+    "code": "IN"
+  },
+  {
+    "name": "Srivaikuntam",
+    "code": "IN"
+  },
+  {
+    "name": "Srivilliputhur",
+    "code": "IN"
+  },
+  {
+    "name": "Suchindram",
+    "code": "IN"
+  },
+  {
+    "name": "Sulur",
+    "code": "IN"
+  },
+  {
+    "name": "Surandai",
+    "code": "IN"
+  },
+  {
+    "name": "Swamimalai",
+    "code": "IN"
+  },
+  {
+    "name": "Tambaram",
+    "code": "IN"
+  },
+  {
+    "name": "Tanjore",
+    "code": "IN"
+  },
+  {
+    "name": "Taramangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Tattayyangarpettai",
+    "code": "IN"
+  },
+  {
+    "name": "Thanjavur",
+    "code": "IN"
+  },
+  {
+    "name": "Tharangambadi",
+    "code": "IN"
+  },
+  {
+    "name": "Theni",
+    "code": "IN"
+  },
+  {
+    "name": "Thenkasi",
+    "code": "IN"
+  },
+  {
+    "name": "Thirukattupalli",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruthani",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruvaiyaru",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruvallur",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruvarur",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruvidaimaruthur",
+    "code": "IN"
+  },
+  {
+    "name": "Thoothukudi",
+    "code": "IN"
+  },
+  {
+    "name": "Tindivanam",
+    "code": "IN"
+  },
+  {
+    "name": "Tinnanur",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruchchendur",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruchengode",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruchirappalli",
+    "code": "IN"
+  },
+  {
+    "name": "Tirukkoyilur",
+    "code": "IN"
+  },
+  {
+    "name": "Tirumullaivasal",
+    "code": "IN"
+  },
+  {
+    "name": "Tirunelveli",
+    "code": "IN"
+  },
+  {
+    "name": "Tirunelveli Kattabo",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruppalaikudi",
+    "code": "IN"
+  },
+  {
+    "name": "Tirupparangunram",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruppur",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruppuvanam",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruttangal",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruvannamalai",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruvottiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Tisaiyanvilai",
+    "code": "IN"
+  },
+  {
+    "name": "Tondi",
+    "code": "IN"
+  },
+  {
+    "name": "Turaiyur",
+    "code": "IN"
+  },
+  {
+    "name": "Udangudi",
+    "code": "IN"
+  },
+  {
+    "name": "Udumalaippettai",
+    "code": "IN"
+  },
+  {
+    "name": "Uppiliyapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Usilampatti",
+    "code": "IN"
+  },
+  {
+    "name": "Uttamapalaiyam",
+    "code": "IN"
+  },
+  {
+    "name": "Uttiramerur",
+    "code": "IN"
+  },
+  {
+    "name": "Uttukkuli",
+    "code": "IN"
+  },
+  {
+    "name": "V.S.K.Valasai (Dindigul-Dist.)",
+    "code": "IN"
+  },
+  {
+    "name": "Vadakku Valliyur",
+    "code": "IN"
+  },
+  {
+    "name": "Vadakku Viravanallur",
+    "code": "IN"
+  },
+  {
+    "name": "Vadamadurai",
+    "code": "IN"
+  },
+  {
+    "name": "Vadippatti",
+    "code": "IN"
+  },
+  {
+    "name": "Valangaiman",
+    "code": "IN"
+  },
+  {
+    "name": "Valavanur",
+    "code": "IN"
+  },
+  {
+    "name": "Vallam",
+    "code": "IN"
+  },
+  {
+    "name": "Valparai",
+    "code": "IN"
+  },
+  {
+    "name": "Vandalur",
+    "code": "IN"
+  },
+  {
+    "name": "Vandavasi",
+    "code": "IN"
+  },
+  {
+    "name": "Vaniyambadi",
+    "code": "IN"
+  },
+  {
+    "name": "Vasudevanallur",
+    "code": "IN"
+  },
+  {
+    "name": "Vattalkundu",
+    "code": "IN"
+  },
+  {
+    "name": "Vedaraniyam",
+    "code": "IN"
+  },
+  {
+    "name": "Vedasandur",
+    "code": "IN"
+  },
+  {
+    "name": "Velankanni",
+    "code": "IN"
+  },
+  {
+    "name": "Vellanur",
+    "code": "IN"
+  },
+  {
+    "name": "Vellore",
+    "code": "IN"
+  },
+  {
+    "name": "Velur",
+    "code": "IN"
+  },
+  {
+    "name": "Vengavasal",
+    "code": "IN"
+  },
+  {
+    "name": "Vettaikkaranpudur",
+    "code": "IN"
+  },
+  {
+    "name": "Vettavalam",
+    "code": "IN"
+  },
+  {
+    "name": "Vijayapuri",
+    "code": "IN"
+  },
+  {
+    "name": "Vikravandi",
+    "code": "IN"
+  },
+  {
+    "name": "Vilattikulam",
+    "code": "IN"
+  },
+  {
+    "name": "Villupuram",
+    "code": "IN"
+  },
+  {
+    "name": "Viraganur",
+    "code": "IN"
+  },
+  {
+    "name": "Virudhunagar",
+    "code": "IN"
+  },
+  {
+    "name": "Vriddhachalam",
+    "code": "IN"
+  },
+  {
+    "name": "Walajapet",
+    "code": "IN"
+  },
+  {
+    "name": "Wallajahbad",
+    "code": "IN"
+  },
+  {
+    "name": "Wellington",
+    "code": "IN"
+  }
+]

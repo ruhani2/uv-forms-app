@@ -58,9 +58,9 @@ model Role {
 model Facility {
   id                 Int      @id @default(autoincrement())
   name               String   @unique
-  facilityType       String
   region             String
   affiliationCode    String   @unique
+  parentId           String
   users              User[]
   bhandaras          Bhandara[]
   satsangAttendances SatsangAttendance[]
@@ -141,8 +141,8 @@ model Address {
   cityId        Int
   userId        Int
   user          User      @relation(fields: [userId], references: [id])
-  applicationId Int
-  application   Application @relation(fields: [applicationId], references: [id])
+  applicationId Int?
+  application   Application? @relation(fields: [applicationId], references: [id])
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
 }
