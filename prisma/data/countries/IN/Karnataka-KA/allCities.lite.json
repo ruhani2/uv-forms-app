@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Afzalpur",
+    "code": "IN"
+  },
+  {
+    "name": "Ajjampur",
+    "code": "IN"
+  },
+  {
+    "name": "Aland",
+    "code": "IN"
+  },
+  {
+    "name": "Alnavar",
+    "code": "IN"
+  },
+  {
+    "name": "Alur",
+    "code": "IN"
+  },
+  {
+    "name": "Anekal",
+    "code": "IN"
+  },
+  {
+    "name": "Ankola",
+    "code": "IN"
+  },
+  {
+    "name": "Annigeri",
+    "code": "IN"
+  },
+  {
+    "name": "Arkalgud",
+    "code": "IN"
+  },
+  {
+    "name": "Arsikere",
+    "code": "IN"
+  },
+  {
+    "name": "Athni",
+    "code": "IN"
+  },
+  {
+    "name": "Aurad",
+    "code": "IN"
+  },
+  {
+    "name": "Badami",
+    "code": "IN"
+  },
+  {
+    "name": "Bagalkot",
+    "code": "IN"
+  },
+  {
+    "name": "Bagepalli",
+    "code": "IN"
+  },
+  {
+    "name": "Bail-Hongal",
+    "code": "IN"
+  },
+  {
+    "name": "Ballari",
+    "code": "IN"
+  },
+  {
+    "name": "Ballary",
+    "code": "IN"
+  },
+  {
+    "name": "Banavar",
+    "code": "IN"
+  },
+  {
+    "name": "Bangalore Rural",
+    "code": "IN"
+  },
+  {
+    "name": "Bangalore Urban",
+    "code": "IN"
+  },
+  {
+    "name": "Bangarapet",
+    "code": "IN"
+  },
+  {
+    "name": "Bannur",
+    "code": "IN"
+  },
+  {
+    "name": "Bantval",
+    "code": "IN"
+  },
+  {
+    "name": "Basavakalyan",
+    "code": "IN"
+  },
+  {
+    "name": "Basavana Bagevadi",
+    "code": "IN"
+  },
+  {
+    "name": "Belagavi",
+    "code": "IN"
+  },
+  {
+    "name": "Belluru",
+    "code": "IN"
+  },
+  {
+    "name": "Beltangadi",
+    "code": "IN"
+  },
+  {
+    "name": "Belur",
+    "code": "IN"
+  },
+  {
+    "name": "Bengaluru",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadravati",
+    "code": "IN"
+  },
+  {
+    "name": "Bhalki",
+    "code": "IN"
+  },
+  {
+    "name": "Bhatkal",
+    "code": "IN"
+  },
+  {
+    "name": "Bidar",
+    "code": "IN"
+  },
+  {
+    "name": "Bilgi",
+    "code": "IN"
+  },
+  {
+    "name": "Birur",
+    "code": "IN"
+  },
+  {
+    "name": "Byadgi",
+    "code": "IN"
+  },
+  {
+    "name": "Byndoor",
+    "code": "IN"
+  },
+  {
+    "name": "Canacona",
+    "code": "IN"
+  },
+  {
+    "name": "Challakere",
+    "code": "IN"
+  },
+  {
+    "name": "Chamrajnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Channagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Channapatna",
+    "code": "IN"
+  },
+  {
+    "name": "Channarayapatna",
+    "code": "IN"
+  },
+  {
+    "name": "Chik Ballapur",
+    "code": "IN"
+  },
+  {
+    "name": "Chikkaballapur",
+    "code": "IN"
+  },
+  {
+    "name": "Chikkamagaluru",
+    "code": "IN"
+  },
+  {
+    "name": "Chiknayakanhalli",
+    "code": "IN"
+  },
+  {
+    "name": "Chikodi",
+    "code": "IN"
+  },
+  {
+    "name": "Chincholi",
+    "code": "IN"
+  },
+  {
+    "name": "Chintamani",
+    "code": "IN"
+  },
+  {
+    "name": "Chitapur",
+    "code": "IN"
+  },
+  {
+    "name": "Chitradurga",
+    "code": "IN"
+  },
+  {
+    "name": "Closepet",
+    "code": "IN"
+  },
+  {
+    "name": "Coondapoor",
+    "code": "IN"
+  },
+  {
+    "name": "Dakshina Kannada",
+    "code": "IN"
+  },
+  {
+    "name": "Dandeli",
+    "code": "IN"
+  },
+  {
+    "name": "Davanagere",
+    "code": "IN"
+  },
+  {
+    "name": "Devanhalli",
+    "code": "IN"
+  },
+  {
+    "name": "Dharwad",
+    "code": "IN"
+  },
+  {
+    "name": "Dod Ballapur",
+    "code": "IN"
+  },
+  {
+    "name": "French Rocks",
+    "code": "IN"
+  },
+  {
+    "name": "Gadag",
+    "code": "IN"
+  },
+  {
+    "name": "Gadag-Betageri",
+    "code": "IN"
+  },
+  {
+    "name": "Gajendragarh",
+    "code": "IN"
+  },
+  {
+    "name": "Gangawati",
+    "code": "IN"
+  },
+  {
+    "name": "Gangolli",
+    "code": "IN"
+  },
+  {
+    "name": "Gokak",
+    "code": "IN"
+  },
+  {
+    "name": "Gokarna",
+    "code": "IN"
+  },
+  {
+    "name": "Goribidnur",
+    "code": "IN"
+  },
+  {
+    "name": "Gorur",
+    "code": "IN"
+  },
+  {
+    "name": "Gubbi",
+    "code": "IN"
+  },
+  {
+    "name": "Gudibanda",
+    "code": "IN"
+  },
+  {
+    "name": "Guledagudda",
+    "code": "IN"
+  },
+  {
+    "name": "Gundlupēt",
+    "code": "IN"
+  },
+  {
+    "name": "Gurmatkal",
+    "code": "IN"
+  },
+  {
+    "name": "Hadagalli",
+    "code": "IN"
+  },
+  {
+    "name": "Haliyal",
+    "code": "IN"
+  },
+  {
+    "name": "Hampi",
+    "code": "IN"
+  },
+  {
+    "name": "Hangal",
+    "code": "IN"
+  },
+  {
+    "name": "Harihar",
+    "code": "IN"
+  },
+  {
+    "name": "Harpanahalli",
+    "code": "IN"
+  },
+  {
+    "name": "Hassan",
+    "code": "IN"
+  },
+  {
+    "name": "Haveri",
+    "code": "IN"
+  },
+  {
+    "name": "Heggadadevankote",
+    "code": "IN"
+  },
+  {
+    "name": "Hirekerur",
+    "code": "IN"
+  },
+  {
+    "name": "Hiriyur",
+    "code": "IN"
+  },
+  {
+    "name": "Holalkere",
+    "code": "IN"
+  },
+  {
+    "name": "Hole Narsipur",
+    "code": "IN"
+  },
+  {
+    "name": "Homnabad",
+    "code": "IN"
+  },
+  {
+    "name": "Honavar",
+    "code": "IN"
+  },
+  {
+    "name": "Honnali",
+    "code": "IN"
+  },
+  {
+    "name": "Hosanagara",
+    "code": "IN"
+  },
+  {
+    "name": "Hosangadi",
+    "code": "IN"
+  },
+  {
+    "name": "Hosdurga",
+    "code": "IN"
+  },
+  {
+    "name": "Hoskote",
+    "code": "IN"
+  },
+  {
+    "name": "Hospet",
+    "code": "IN"
+  },
+  {
+    "name": "Hubballi",
+    "code": "IN"
+  },
+  {
+    "name": "Hukeri",
+    "code": "IN"
+  },
+  {
+    "name": "Hungund",
+    "code": "IN"
+  },
+  {
+    "name": "Hunsur",
+    "code": "IN"
+  },
+  {
+    "name": "Ilkal",
+    "code": "IN"
+  },
+  {
+    "name": "Indi",
+    "code": "IN"
+  },
+  {
+    "name": "Jagalur",
+    "code": "IN"
+  },
+  {
+    "name": "Jamkhandi",
+    "code": "IN"
+  },
+  {
+    "name": "Jevargi",
+    "code": "IN"
+  },
+  {
+    "name": "Kadur",
+    "code": "IN"
+  },
+  {
+    "name": "Kalaburgi",
+    "code": "IN"
+  },
+  {
+    "name": "Kalghatgi",
+    "code": "IN"
+  },
+  {
+    "name": "Kampli",
+    "code": "IN"
+  },
+  {
+    "name": "Kankanhalli",
+    "code": "IN"
+  },
+  {
+    "name": "Karkala",
+    "code": "IN"
+  },
+  {
+    "name": "Karwar",
+    "code": "IN"
+  },
+  {
+    "name": "Kavalur",
+    "code": "IN"
+  },
+  {
+    "name": "Kerur",
+    "code": "IN"
+  },
+  {
+    "name": "Khanapur",
+    "code": "IN"
+  },
+  {
+    "name": "Kodagu",
+    "code": "IN"
+  },
+  {
+    "name": "Kodigenahalli",
+    "code": "IN"
+  },
+  {
+    "name": "Kodlipet",
+    "code": "IN"
+  },
+  {
+    "name": "Kolar",
+    "code": "IN"
+  },
+  {
+    "name": "Kollegal",
+    "code": "IN"
+  },
+  {
+    "name": "Konanur",
+    "code": "IN"
+  },
+  {
+    "name": "Konnur",
+    "code": "IN"
+  },
+  {
+    "name": "Koppa",
+    "code": "IN"
+  },
+  {
+    "name": "Koppal",
+    "code": "IN"
+  },
+  {
+    "name": "Koratagere",
+    "code": "IN"
+  },
+  {
+    "name": "Kotturu",
+    "code": "IN"
+  },
+  {
+    "name": "Krishnarajpet",
+    "code": "IN"
+  },
+  {
+    "name": "Kudachi",
+    "code": "IN"
+  },
+  {
+    "name": "Kudligi",
+    "code": "IN"
+  },
+  {
+    "name": "Kumsi",
+    "code": "IN"
+  },
+  {
+    "name": "Kumta",
+    "code": "IN"
+  },
+  {
+    "name": "Kundgol",
+    "code": "IN"
+  },
+  {
+    "name": "Kunigal",
+    "code": "IN"
+  },
+  {
+    "name": "Kurgunta",
+    "code": "IN"
+  },
+  {
+    "name": "Kushalnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Kushtagi",
+    "code": "IN"
+  },
+  {
+    "name": "Lakshmeshwar",
+    "code": "IN"
+  },
+  {
+    "name": "Lingsugur",
+    "code": "IN"
+  },
+  {
+    "name": "Londa",
+    "code": "IN"
+  },
+  {
+    "name": "Maddagiri",
+    "code": "IN"
+  },
+  {
+    "name": "Maddur",
+    "code": "IN"
+  },
+  {
+    "name": "Madikeri",
+    "code": "IN"
+  },
+  {
+    "name": "Magadi",
+    "code": "IN"
+  },
+  {
+    "name": "Mahalingpur",
+    "code": "IN"
+  },
+  {
+    "name": "Malavalli",
+    "code": "IN"
+  },
+  {
+    "name": "Malpe",
+    "code": "IN"
+  },
+  {
+    "name": "Malur",
+    "code": "IN"
+  },
+  {
+    "name": "Mandya",
+    "code": "IN"
+  },
+  {
+    "name": "Mangaluru",
+    "code": "IN"
+  },
+  {
+    "name": "Manipal",
+    "code": "IN"
+  },
+  {
+    "name": "Manvi",
+    "code": "IN"
+  },
+  {
+    "name": "Mayakonda",
+    "code": "IN"
+  },
+  {
+    "name": "Melukote",
+    "code": "IN"
+  },
+  {
+    "name": "Mudbidri",
+    "code": "IN"
+  },
+  {
+    "name": "Muddebihal",
+    "code": "IN"
+  },
+  {
+    "name": "Mudgal",
+    "code": "IN"
+  },
+  {
+    "name": "Mudgere",
+    "code": "IN"
+  },
+  {
+    "name": "Mudhol",
+    "code": "IN"
+  },
+  {
+    "name": "Mulbagal",
+    "code": "IN"
+  },
+  {
+    "name": "Mulgund",
+    "code": "IN"
+  },
+  {
+    "name": "Mulki",
+    "code": "IN"
+  },
+  {
+    "name": "Mundargi",
+    "code": "IN"
+  },
+  {
+    "name": "Mundgod",
+    "code": "IN"
+  },
+  {
+    "name": "Munirabad",
+    "code": "IN"
+  },
+  {
+    "name": "Murudeshwara",
+    "code": "IN"
+  },
+  {
+    "name": "Mysuru",
+    "code": "IN"
+  },
+  {
+    "name": "Nagamangala",
+    "code": "IN"
+  },
+  {
+    "name": "Nanjangud",
+    "code": "IN"
+  },
+  {
+    "name": "Narasimharajapura",
+    "code": "IN"
+  },
+  {
+    "name": "Naregal",
+    "code": "IN"
+  },
+  {
+    "name": "Nargund",
+    "code": "IN"
+  },
+  {
+    "name": "Navalgund",
+    "code": "IN"
+  },
+  {
+    "name": "Nelamangala",
+    "code": "IN"
+  },
+  {
+    "name": "Nyamti",
+    "code": "IN"
+  },
+  {
+    "name": "Pangala",
+    "code": "IN"
+  },
+  {
+    "name": "Pavugada",
+    "code": "IN"
+  },
+  {
+    "name": "Piriyapatna",
+    "code": "IN"
+  },
+  {
+    "name": "Ponnampet",
+    "code": "IN"
+  },
+  {
+    "name": "Puttur",
+    "code": "IN"
+  },
+  {
+    "name": "Rabkavi",
+    "code": "IN"
+  },
+  {
+    "name": "Raichur",
+    "code": "IN"
+  },
+  {
+    "name": "Ramanagara",
+    "code": "IN"
+  },
+  {
+    "name": "Ranibennur",
+    "code": "IN"
+  },
+  {
+    "name": "Raybag",
+    "code": "IN"
+  },
+  {
+    "name": "Robertsonpet",
+    "code": "IN"
+  },
+  {
+    "name": "Ron",
+    "code": "IN"
+  },
+  {
+    "name": "Sadalgi",
+    "code": "IN"
+  },
+  {
+    "name": "Sagar",
+    "code": "IN"
+  },
+  {
+    "name": "Sakleshpur",
+    "code": "IN"
+  },
+  {
+    "name": "Sandur",
+    "code": "IN"
+  },
+  {
+    "name": "Sanivarsante",
+    "code": "IN"
+  },
+  {
+    "name": "Sankeshwar",
+    "code": "IN"
+  },
+  {
+    "name": "Sargur",
+    "code": "IN"
+  },
+  {
+    "name": "Saundatti",
+    "code": "IN"
+  },
+  {
+    "name": "Savanur",
+    "code": "IN"
+  },
+  {
+    "name": "Seram",
+    "code": "IN"
+  },
+  {
+    "name": "Shahabad",
+    "code": "IN"
+  },
+  {
+    "name": "Shahpur",
+    "code": "IN"
+  },
+  {
+    "name": "Shiggaon",
+    "code": "IN"
+  },
+  {
+    "name": "Shikarpur",
+    "code": "IN"
+  },
+  {
+    "name": "Shimoga",
+    "code": "IN"
+  },
+  {
+    "name": "Shirhatti",
+    "code": "IN"
+  },
+  {
+    "name": "Shorapur",
+    "code": "IN"
+  },
+  {
+    "name": "Shrirangapattana",
+    "code": "IN"
+  },
+  {
+    "name": "Siddapur",
+    "code": "IN"
+  },
+  {
+    "name": "Sidlaghatta",
+    "code": "IN"
+  },
+  {
+    "name": "Sindgi",
+    "code": "IN"
+  },
+  {
+    "name": "Sindhnur",
+    "code": "IN"
+  },
+  {
+    "name": "Sira",
+    "code": "IN"
+  },
+  {
+    "name": "Sirsi",
+    "code": "IN"
+  },
+  {
+    "name": "Siruguppa",
+    "code": "IN"
+  },
+  {
+    "name": "Someshwar",
+    "code": "IN"
+  },
+  {
+    "name": "Somvarpet",
+    "code": "IN"
+  },
+  {
+    "name": "Sorab",
+    "code": "IN"
+  },
+  {
+    "name": "Sravana Belgola",
+    "code": "IN"
+  },
+  {
+    "name": "Sringeri",
+    "code": "IN"
+  },
+  {
+    "name": "Srinivaspur",
+    "code": "IN"
+  },
+  {
+    "name": "Sulya",
+    "code": "IN"
+  },
+  {
+    "name": "Suntikoppa",
+    "code": "IN"
+  },
+  {
+    "name": "Talikota",
+    "code": "IN"
+  },
+  {
+    "name": "Tarikere",
+    "code": "IN"
+  },
+  {
+    "name": "Tekkalakote",
+    "code": "IN"
+  },
+  {
+    "name": "Terdal",
+    "code": "IN"
+  },
+  {
+    "name": "Tiptur",
+    "code": "IN"
+  },
+  {
+    "name": "Tirthahalli",
+    "code": "IN"
+  },
+  {
+    "name": "Tirumakudal Narsipur",
+    "code": "IN"
+  },
+  {
+    "name": "Tumakuru",
+    "code": "IN"
+  },
+  {
+    "name": "Turuvekere",
+    "code": "IN"
+  },
+  {
+    "name": "Udupi",
+    "code": "IN"
+  },
+  {
+    "name": "Ullal",
+    "code": "IN"
+  },
+  {
+    "name": "Uttar Kannada",
+    "code": "IN"
+  },
+  {
+    "name": "Vadigenhalli",
+    "code": "IN"
+  },
+  {
+    "name": "Vijayapura",
+    "code": "IN"
+  },
+  {
+    "name": "Virarajendrapet",
+    "code": "IN"
+  },
+  {
+    "name": "Wadi",
+    "code": "IN"
+  },
+  {
+    "name": "Yadgir",
+    "code": "IN"
+  },
+  {
+    "name": "Yelahanka",
+    "code": "IN"
+  },
+  {
+    "name": "Yelandur",
+    "code": "IN"
+  },
+  {
+    "name": "Yelbarga",
+    "code": "IN"
+  },
+  {
+    "name": "Yellapur",
+    "code": "IN"
+  }
+]

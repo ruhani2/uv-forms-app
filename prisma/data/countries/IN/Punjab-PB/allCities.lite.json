@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Abohar",
+    "code": "IN"
+  },
+  {
+    "name": "Adampur",
+    "code": "IN"
+  },
+  {
+    "name": "Ajitgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Ajnala",
+    "code": "IN"
+  },
+  {
+    "name": "Akalgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Alawalpur",
+    "code": "IN"
+  },
+  {
+    "name": "Amloh",
+    "code": "IN"
+  },
+  {
+    "name": "Amritsar",
+    "code": "IN"
+  },
+  {
+    "name": "Anandpur Sahib",
+    "code": "IN"
+  },
+  {
+    "name": "Badhni Kalan",
+    "code": "IN"
+  },
+  {
+    "name": "Bagha Purana",
+    "code": "IN"
+  },
+  {
+    "name": "Bakloh",
+    "code": "IN"
+  },
+  {
+    "name": "Balachor",
+    "code": "IN"
+  },
+  {
+    "name": "Banga",
+    "code": "IN"
+  },
+  {
+    "name": "Banur",
+    "code": "IN"
+  },
+  {
+    "name": "Barnala",
+    "code": "IN"
+  },
+  {
+    "name": "Batala",
+    "code": "IN"
+  },
+  {
+    "name": "Begowal",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadaur",
+    "code": "IN"
+  },
+  {
+    "name": "Bhatinda",
+    "code": "IN"
+  },
+  {
+    "name": "Bhawanigarh",
+    "code": "IN"
+  },
+  {
+    "name": "Bhikhi",
+    "code": "IN"
+  },
+  {
+    "name": "Bhogpur",
+    "code": "IN"
+  },
+  {
+    "name": "Bholath",
+    "code": "IN"
+  },
+  {
+    "name": "Budhlada",
+    "code": "IN"
+  },
+  {
+    "name": "Chima",
+    "code": "IN"
+  },
+  {
+    "name": "Dasuya",
+    "code": "IN"
+  },
+  {
+    "name": "Dera Baba Nanak",
+    "code": "IN"
+  },
+  {
+    "name": "Dera Bassi",
+    "code": "IN"
+  },
+  {
+    "name": "Dhanaula",
+    "code": "IN"
+  },
+  {
+    "name": "Dhariwal",
+    "code": "IN"
+  },
+  {
+    "name": "Dhilwan",
+    "code": "IN"
+  },
+  {
+    "name": "Dhudi",
+    "code": "IN"
+  },
+  {
+    "name": "Dhuri",
+    "code": "IN"
+  },
+  {
+    "name": "Dina Nagar",
+    "code": "IN"
+  },
+  {
+    "name": "Dirba",
+    "code": "IN"
+  },
+  {
+    "name": "Doraha",
+    "code": "IN"
+  },
+  {
+    "name": "Faridkot",
+    "code": "IN"
+  },
+  {
+    "name": "Fatehgarh Churian",
+    "code": "IN"
+  },
+  {
+    "name": "Fatehgarh Sahib",
+    "code": "IN"
+  },
+  {
+    "name": "Fazilka",
+    "code": "IN"
+  },
+  {
+    "name": "Firozpur",
+    "code": "IN"
+  },
+  {
+    "name": "Firozpur District",
+    "code": "IN"
+  },
+  {
+    "name": "Gardhiwala",
+    "code": "IN"
+  },
+  {
+    "name": "Garhshankar",
+    "code": "IN"
+  },
+  {
+    "name": "Ghanaur",
+    "code": "IN"
+  },
+  {
+    "name": "Giddarbaha",
+    "code": "IN"
+  },
+  {
+    "name": "Gurdaspur",
+    "code": "IN"
+  },
+  {
+    "name": "Guru Har Sahai",
+    "code": "IN"
+  },
+  {
+    "name": "Hajipur",
+    "code": "IN"
+  },
+  {
+    "name": "Hariana",
+    "code": "IN"
+  },
+  {
+    "name": "Hoshiarpur",
+    "code": "IN"
+  },
+  {
+    "name": "Ishanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Jagraon",
+    "code": "IN"
+  },
+  {
+    "name": "Jaito",
+    "code": "IN"
+  },
+  {
+    "name": "Jalalabad",
+    "code": "IN"
+  },
+  {
+    "name": "Jalandhar",
+    "code": "IN"
+  },
+  {
+    "name": "Jandiala",
+    "code": "IN"
+  },
+  {
+    "name": "Jandiala Guru",
+    "code": "IN"
+  },
+  {
+    "name": "Kalanaur",
+    "code": "IN"
+  },
+  {
+    "name": "Kapurthala",
+    "code": "IN"
+  },
+  {
+    "name": "Kartarpur",
+    "code": "IN"
+  },
+  {
+    "name": "Khamanon",
+    "code": "IN"
+  },
+  {
+    "name": "Khanna",
+    "code": "IN"
+  },
+  {
+    "name": "Kharar",
+    "code": "IN"
+  },
+  {
+    "name": "Khemkaran",
+    "code": "IN"
+  },
+  {
+    "name": "Kot Isa Khan",
+    "code": "IN"
+  },
+  {
+    "name": "Kotkapura",
+    "code": "IN"
+  },
+  {
+    "name": "Laungowal",
+    "code": "IN"
+  },
+  {
+    "name": "Ludhiana",
+    "code": "IN"
+  },
+  {
+    "name": "Machhiwara",
+    "code": "IN"
+  },
+  {
+    "name": "Majitha",
+    "code": "IN"
+  },
+  {
+    "name": "Makhu",
+    "code": "IN"
+  },
+  {
+    "name": "Malaut",
+    "code": "IN"
+  },
+  {
+    "name": "Malerkotla",
+    "code": "IN"
+  },
+  {
+    "name": "Mansa",
+    "code": "IN"
+  },
+  {
+    "name": "Maur Mandi",
+    "code": "IN"
+  },
+  {
+    "name": "Moga",
+    "code": "IN"
+  },
+  {
+    "name": "Mohali",
+    "code": "IN"
+  },
+  {
+    "name": "Morinda",
+    "code": "IN"
+  },
+  {
+    "name": "Mukerian",
+    "code": "IN"
+  },
+  {
+    "name": "Nabha",
+    "code": "IN"
+  },
+  {
+    "name": "Nakodar",
+    "code": "IN"
+  },
+  {
+    "name": "Nangal",
+    "code": "IN"
+  },
+  {
+    "name": "Nawanshahr",
+    "code": "IN"
+  },
+  {
+    "name": "Nurmahal",
+    "code": "IN"
+  },
+  {
+    "name": "Nurpur Kalan",
+    "code": "IN"
+  },
+  {
+    "name": "Pathankot",
+    "code": "IN"
+  },
+  {
+    "name": "Patiala",
+    "code": "IN"
+  },
+  {
+    "name": "Patti",
+    "code": "IN"
+  },
+  {
+    "name": "Phagwara",
+    "code": "IN"
+  },
+  {
+    "name": "Phillaur",
+    "code": "IN"
+  },
+  {
+    "name": "Qadian",
+    "code": "IN"
+  },
+  {
+    "name": "Rahon",
+    "code": "IN"
+  },
+  {
+    "name": "Raikot",
+    "code": "IN"
+  },
+  {
+    "name": "Rajasansi",
+    "code": "IN"
+  },
+  {
+    "name": "Rajpura",
+    "code": "IN"
+  },
+  {
+    "name": "Ram Das",
+    "code": "IN"
+  },
+  {
+    "name": "Rampura",
+    "code": "IN"
+  },
+  {
+    "name": "Rupnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Samrala",
+    "code": "IN"
+  },
+  {
+    "name": "Sanaur",
+    "code": "IN"
+  },
+  {
+    "name": "Sangrur",
+    "code": "IN"
+  },
+  {
+    "name": "Sardulgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Shahid Bhagat Singh Nagar",
+    "code": "IN"
+  },
+  {
+    "name": "Shahkot",
+    "code": "IN"
+  },
+  {
+    "name": "Sham Churasi",
+    "code": "IN"
+  },
+  {
+    "name": "Sirhind-Fategarh",
+    "code": "IN"
+  },
+  {
+    "name": "Sri Muktsar Sahib",
+    "code": "IN"
+  },
+  {
+    "name": "Sultanpur Lodhi",
+    "code": "IN"
+  },
+  {
+    "name": "Sunam",
+    "code": "IN"
+  },
+  {
+    "name": "Talwandi Bhai",
+    "code": "IN"
+  },
+  {
+    "name": "Talwara",
+    "code": "IN"
+  },
+  {
+    "name": "Tarn Taran Sahib",
+    "code": "IN"
+  },
+  {
+    "name": "Zira",
+    "code": "IN"
+  }
+]
