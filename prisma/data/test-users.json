@@ -1,0 +1,71 @@
+[
+  {
+    "uid": "branch_secretary_uid",
+    "title": "Pb.",
+    "firstName": "Branch",
+    "middleName": "Kumar",
+    "lastName": "Secretary",
+    "password": "password",
+    "roleKey": "BRANCH_SECRETARY",
+    "affiliationCode": "B000238",
+    "emails": [{ "emailAddress": "branch.secretary@example.com" }],
+    "addresses": [
+      {
+        "houseNo": "123",
+        "landmark": "Near Branch Office",
+        "pincode": 123456,
+        "addressType": "current",
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurgaon"
+      }
+    ],
+    "phoneNumbers": [{ "code": "+91", "number": "1234567890" }]
+  },
+  {
+    "uid": "district_secretary_uid",
+    "title": "Pb.",
+    "firstName": "District",
+    "middleName": "Kumar",
+    "lastName": "Secretary",
+    "password": "password",
+    "roleKey": "DISTRICT_SECRETARY",
+    "affiliationCode": "B000237",
+    "emails": [{ "emailAddress": "district.secretary@example.com" }],
+    "addresses": [
+      {
+        "houseNo": "456",
+        "landmark": "Near District Office",
+        "pincode": 654321,
+        "addressType": "current",
+        "country": "India",
+        "state": "Haryana",
+        "city": "Palwal"
+      }
+    ],
+    "phoneNumbers": [{ "code": "+91", "number": "0987654321" }]
+  },
+  {
+    "uid": "center_incharge_uid",
+    "title": "Mr.",
+    "firstName": "Center",
+    "middleName": "Kumar",
+    "lastName": "Incharge",
+    "password": "password",
+    "roleKey": "CENTER_INCHARGE",
+    "affiliationCode": "B000235",
+    "emails": [{ "emailAddress": "center.incharge@example.com" }],
+    "addresses": [
+      {
+        "houseNo": "789",
+        "landmark": "Near Center Office",
+        "pincode": 987654,
+        "addressType": "current",
+        "country": "India",
+        "state": "Haryana",
+        "city": "Rohtak"
+      }
+    ],
+    "phoneNumbers": [{ "code": "+91", "number": "1122334455" }]
+  }
+]

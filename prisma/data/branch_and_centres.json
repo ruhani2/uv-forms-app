@@ -1,0 +1,3518 @@
+[
+  {
+    "region": "ARSA",
+    "name": "A VEMAVARAM-C (TANUKU)",
+    "id": "C000086",
+    "parent_id": "B000019"
+  },
+  {
+    "region": "ARSA",
+    "name": "AMALAPURAM",
+    "id": "B000001",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "ANAKAPALLI",
+    "id": "B000030",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "ANANDNAGAR",
+    "id": "B000066",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "ANANTAPUR",
+    "id": "B000042",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "BANGALORE",
+    "id": "B000052",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "BARLI",
+    "id": "B000040",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "BETAMCHERLA",
+    "id": "B000047",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "BHIMAVARAM",
+    "id": "B000013",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "BOLARUM",
+    "id": "B000067",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "CHEEPURUPALLI-C (VIZIANAGARAM)",
+    "id": "C000087",
+    "parent_id": "B000038"
+  },
+  {
+    "region": "ARSA",
+    "name": "CHITTOOR",
+    "id": "B000555",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "CUMBUM",
+    "id": "B000025",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "DOMMARNANDYALA",
+    "id": "B000045",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "ELURU",
+    "id": "B000014",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "GANAPAVARAM-C (BHIMAVARAM)",
+    "id": "C000004",
+    "parent_id": "B000013"
+  },
+  {
+    "region": "ARSA",
+    "name": "GIDDALUR",
+    "id": "B000026",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "GOLLALAKODURU",
+    "id": "B000015",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "GUNTAKAL",
+    "id": "B000054",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "GUNTUR",
+    "id": "B000021",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "HANAMKONDA (WARANGAL)",
+    "id": "B000072",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "HYDERABAD",
+    "id": "B000069",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "IPPANAPADU",
+    "id": "B000004",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "KADAPA",
+    "id": "B000056",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "KAKINADA",
+    "id": "B000003",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "KHANDYAM",
+    "id": "B000059",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "KONDAPURAM",
+    "id": "B000071",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "KOTEKAL",
+    "id": "B000049",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "KOTTURU",
+    "id": "B000035",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "KURNOOL",
+    "id": "B000050",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "LAKKAVARAM",
+    "id": "B000017",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "LINGAMPALLI-C (SECUNDERABAD)",
+    "id": "C000100",
+    "parent_id": "B000070"
+  },
+  {
+    "region": "ARSA",
+    "name": "MALAKPETA",
+    "id": "B000068",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "MANCHILLI",
+    "id": "B000018",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "MARKAPUR",
+    "id": "B000027",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "MASAHEBPETA",
+    "id": "B000036",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "MURMALLA",
+    "id": "B000007",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "NANDAYALA",
+    "id": "B000055",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "NAVABPETA",
+    "id": "B000008",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "NELLORE",
+    "id": "B000024",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "NIRMAL",
+    "id": "B000073",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "ONGOLE",
+    "id": "B000028",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "OWK",
+    "id": "B000051",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "PAKALA",
+    "id": "B000044",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "PALAKONDA",
+    "id": "B000061",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "PATTIKONDA",
+    "id": "B000053",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "PEDAPALAPARRU",
+    "id": "B000023",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "PRODDATUR",
+    "id": "B000046",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "RAJAMUNDRY",
+    "id": "B000010",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "RAMCHANDRAPURAM",
+    "id": "B000011",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "ROUTHUPETA",
+    "id": "B000062",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "SECUNDERABAD",
+    "id": "B000070",
+    "parent_id": "D000007"
+  },
+  {
+    "region": "ARSA",
+    "name": "SIRIPURAM",
+    "id": "B000064",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "SOUTH BANGALORE",
+    "id": "B000554",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "SRIKAKULAM",
+    "id": "B000063",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "TANUKU",
+    "id": "B000019",
+    "parent_id": "D000002"
+  },
+  {
+    "region": "ARSA",
+    "name": "THIMMARAJUPETA",
+    "id": "B000031",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "TIRUPATI",
+    "id": "B000525",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "TUNI",
+    "id": "B000012",
+    "parent_id": "D000001"
+  },
+  {
+    "region": "ARSA",
+    "name": "UNGARADA",
+    "id": "B000065",
+    "parent_id": "D000006"
+  },
+  {
+    "region": "ARSA",
+    "name": "URVAKONDA",
+    "id": "B000043",
+    "parent_id": "D000005"
+  },
+  {
+    "region": "ARSA",
+    "name": "VIJAYAWADA",
+    "id": "B000029",
+    "parent_id": "D000003"
+  },
+  {
+    "region": "ARSA",
+    "name": "VISAKHAPATNAM (DAYAL NAGAR)",
+    "id": "B000032",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "VISAKHAPATNAM CITY",
+    "id": "B000041",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "ARSA",
+    "name": "VIZIANAGARAM",
+    "id": "B000038",
+    "parent_id": "D000004"
+  },
+  {
+    "region": "BRSA",
+    "name": "AFJUGANJ",
+    "id": "B000125",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "AFZALPUR PURAINA-C (SUKKI)",
+    "id": "C000006",
+    "parent_id": "B000179"
+  },
+  {
+    "region": "BRSA",
+    "name": "ALAWALPUR",
+    "id": "B000121",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "ARER",
+    "id": "B000105",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "ARRAH",
+    "id": "B000093",
+    "parent_id": "D000010"
+  },
+  {
+    "region": "BRSA",
+    "name": "AURANGABAD (BRSA)",
+    "id": "B000083",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "BAHURIADIH",
+    "id": "B000087",
+    "parent_id": "D000009"
+  },
+  {
+    "region": "BRSA",
+    "name": "BAISA",
+    "id": "B000136",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "BAKARPUR",
+    "id": "B000165",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "BANAULA",
+    "id": "B000194",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "BANKIPUR (PATNA)",
+    "id": "B000180",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "BARA CHAKIA",
+    "id": "B000110",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "BARAHBATTA",
+    "id": "B000081",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "BARANTI",
+    "id": "B000166",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "BARCHHAWA",
+    "id": "B000192",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "BARI DARIYAPUR",
+    "id": "B000139",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "BASANT",
+    "id": "B000152",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "BEDWALIYA",
+    "id": "B000159",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "BEGUSARAI",
+    "id": "B000197",
+    "parent_id": "D000020"
+  },
+  {
+    "region": "BRSA",
+    "name": "BEHRANWAN",
+    "id": "B000185",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "BELARI",
+    "id": "B000126",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "BERMO-C (BOKARO STEEL CITY )",
+    "id": "B000552",
+    "parent_id": "D000075"
+  },
+  {
+    "region": "BRSA",
+    "name": "BHADEJI-C (GAYA)",
+    "id": "C000008",
+    "parent_id": "B000080"
+  },
+  {
+    "region": "BRSA",
+    "name": "BHAGALPUR",
+    "id": "B000127",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "BHAJOUR",
+    "id": "B000187",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "BHAROSA",
+    "id": "B000082",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "BHATAUNA",
+    "id": "B000117",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "BIJAIPUR-C (SIWAN)",
+    "id": "C000077",
+    "parent_id": "B000528"
+  },
+  {
+    "region": "BRSA",
+    "name": "BISHUNPURA",
+    "id": "B000161",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "BOKARO",
+    "id": "B000085",
+    "parent_id": "D000075"
+  },
+  {
+    "region": "BRSA",
+    "name": "BURHAI PATHRA",
+    "id": "B000205",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "BUXAR",
+    "id": "B000092",
+    "parent_id": "D000010"
+  },
+  {
+    "region": "BRSA",
+    "name": "CHAIYAN",
+    "id": "B000149",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "CHANDAN",
+    "id": "B000128",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "CHAPRA",
+    "id": "B000156",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "DALTONGANJ",
+    "id": "B000202",
+    "parent_id": "D000021"
+  },
+  {
+    "region": "BRSA",
+    "name": "DEHRI-ON-SONE",
+    "id": "B000094",
+    "parent_id": "D000010"
+  },
+  {
+    "region": "BRSA",
+    "name": "DEO",
+    "id": "B000084",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "DHANBAD",
+    "id": "B000086",
+    "parent_id": "D000009"
+  },
+  {
+    "region": "BRSA",
+    "name": "GANGA CHAK",
+    "id": "B000188",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "GANGAJAL",
+    "id": "B000167",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "GARIHA-C (KALYANPUR)",
+    "id": "C000009",
+    "parent_id": "B000193"
+  },
+  {
+    "region": "BRSA",
+    "name": "GAYA",
+    "id": "B000080",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "GHATAHO",
+    "id": "B000100",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "GIRIDIH",
+    "id": "B000088",
+    "parent_id": "D000009"
+  },
+  {
+    "region": "BRSA",
+    "name": "GOPALGANJ (GAYA)",
+    "id": "B000076",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "GOPALGANJ(SARAN-SIWAN-GOPALGANJ DSA)",
+    "id": "B000151",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "HAIDAR NAGAR",
+    "id": "B000203",
+    "parent_id": "D000021"
+  },
+  {
+    "region": "BRSA",
+    "name": "HAJIPUR",
+    "id": "B000168",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "HARCHANDI",
+    "id": "B000129",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "HAVELI BIHAR SARIF",
+    "id": "B000189",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "HAZARIBAGH",
+    "id": "B000091",
+    "parent_id": "D000075"
+  },
+  {
+    "region": "BRSA",
+    "name": "INARA BARAN",
+    "id": "B000130",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "ISSARI BAZAR",
+    "id": "B000089",
+    "parent_id": "D000009"
+  },
+  {
+    "region": "BRSA",
+    "name": "JAFRA",
+    "id": "B000108",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "JAGDISHPUR",
+    "id": "B000115",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "JAGPURA-C (JAHANABAD )",
+    "id": "C000081",
+    "parent_id": "B000075"
+  },
+  {
+    "region": "BRSA",
+    "name": "JAHANABAD",
+    "id": "B000075",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "JAMSHEDPUR",
+    "id": "B000201",
+    "parent_id": "D000075"
+  },
+  {
+    "region": "BRSA",
+    "name": "JANDAHA BAZAR",
+    "id": "B000169",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "JASIDIH",
+    "id": "B000208",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "JHAJHA",
+    "id": "B000140",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "JHAMMANGANJ",
+    "id": "B000170",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "JINEDPUR",
+    "id": "B000198",
+    "parent_id": "D000020"
+  },
+  {
+    "region": "BRSA",
+    "name": "KABIRPAR-C (REGION)",
+    "id": "C000102",
+    "parent_id": "A0002"
+  },
+  {
+    "region": "BRSA",
+    "name": "KAKARGHATTI",
+    "id": "B000102",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "KALPA",
+    "id": "B000079",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "KALYANPUR(BIHAR)",
+    "id": "B000193",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "KARAMPUR KOELI",
+    "id": "B000131",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "KARANDEY",
+    "id": "B000141",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "KATIHAR",
+    "id": "B000137",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "KATORIA",
+    "id": "B000132",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "KHAGARIA-C (REGION)",
+    "id": "C000010",
+    "parent_id": "A0002"
+  },
+  {
+    "region": "BRSA",
+    "name": "KHAIRA",
+    "id": "B000078",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "KHAWASPUR-C (ARRAH)",
+    "id": "C000011",
+    "parent_id": "B000093"
+  },
+  {
+    "region": "BRSA",
+    "name": "KHUTAHA",
+    "id": "B000133",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "KHUTAHAN",
+    "id": "B000154",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "KOERIA NIZAMAT",
+    "id": "B000118",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "KOLHUAMORE",
+    "id": "B000191",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "LAHERIA SARAI",
+    "id": "B000098",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "LAKHISARAI",
+    "id": "B000147",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "LALGANJ",
+    "id": "B000171",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "LAUNA",
+    "id": "B000142",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "MADHOPUR SUSTA",
+    "id": "B000119",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "MADHUBAN",
+    "id": "B000111",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "MADHUBANI",
+    "id": "B000109",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "MADHWA MANIKPUR",
+    "id": "B000206",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAHADEOPUR DIGHWAN",
+    "id": "B000190",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAHENDRA NAGAR",
+    "id": "B000196",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAHINDWARA",
+    "id": "B000172",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAHTHAUR KHURD",
+    "id": "B000107",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAHULI-C (RAMANKABAD)",
+    "id": "C000012",
+    "parent_id": "B000146"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAJHAULI",
+    "id": "B000096",
+    "parent_id": "D000010"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAJLISHPUR",
+    "id": "B000173",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "MAKHACHAK",
+    "id": "B000199",
+    "parent_id": "D000020"
+  },
+  {
+    "region": "BRSA",
+    "name": "MALAYPUR",
+    "id": "B000143",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "MANIKPUR",
+    "id": "B000207",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "MARWAN",
+    "id": "B000120",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "MASAURHI",
+    "id": "B000184",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "MEHSI",
+    "id": "B000112",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "MIRCHAIYA",
+    "id": "B000195",
+    "parent_id": "D000019"
+  },
+  {
+    "region": "BRSA",
+    "name": "MOHIUDDIN NAGAR",
+    "id": "B000103",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "MOTIHARI",
+    "id": "B000113",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "MUBARAKPUR",
+    "id": "B000153",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "MUKHERIA",
+    "id": "B000543",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "MULNA CHAK",
+    "id": "B000182",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "MUNGER",
+    "id": "B000144",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "MURAR",
+    "id": "B000097",
+    "parent_id": "D000010"
+  },
+  {
+    "region": "BRSA",
+    "name": "MUZAFFARPUR",
+    "id": "B000122",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "NARAYANPUR",
+    "id": "B000134",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "NAYAGAON",
+    "id": "B000145",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "NAYANAGAR DULARPUR",
+    "id": "B000541",
+    "parent_id": "D000020"
+  },
+  {
+    "region": "BRSA",
+    "name": "NILKANTHPUR",
+    "id": "B000174",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "PAKUR",
+    "id": "B000209",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "PANAPUR-DHARAMPUR",
+    "id": "B000175",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "PANKI",
+    "id": "B000542",
+    "parent_id": "D000021"
+  },
+  {
+    "region": "BRSA",
+    "name": "PARIWADH-C (REGION)",
+    "id": "C000078",
+    "parent_id": "A0002"
+  },
+  {
+    "region": "BRSA",
+    "name": "PARU",
+    "id": "B000123",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "PASNAULI",
+    "id": "B000162",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "PATNA CITY",
+    "id": "B000181",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "PUNPUN",
+    "id": "B000183",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "PURAINA",
+    "id": "B000148",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "PURNEA",
+    "id": "B000138",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "RAMANKABAD",
+    "id": "B000146",
+    "parent_id": "D000015"
+  },
+  {
+    "region": "BRSA",
+    "name": "RAMDIHA",
+    "id": "B000114",
+    "parent_id": "D000012"
+  },
+  {
+    "region": "BRSA",
+    "name": "RANCHI",
+    "id": "B000200",
+    "parent_id": "D000021"
+  },
+  {
+    "region": "BRSA",
+    "name": "RASULPUR HABIB",
+    "id": "B000176",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "RATANPUR MAKDUMA",
+    "id": "B000135",
+    "parent_id": "D000074"
+  },
+  {
+    "region": "BRSA",
+    "name": "RATNOPATTI",
+    "id": "B000099",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "RAUNA",
+    "id": "B000074",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "REMBA",
+    "id": "B000090",
+    "parent_id": "D000009"
+  },
+  {
+    "region": "BRSA",
+    "name": "REWARI (BRSA)",
+    "id": "B000157",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "SAIDPUR GANESH",
+    "id": "B000177",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "SALEMPUR PACHLAKHI",
+    "id": "B000163",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "SAMASTIPUR",
+    "id": "B000104",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "SARAI RANJAN",
+    "id": "B000101",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "SARAIYA RATNAKAR",
+    "id": "B000155",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "SIMRI",
+    "id": "B000106",
+    "parent_id": "D000011"
+  },
+  {
+    "region": "BRSA",
+    "name": "SINGHARA",
+    "id": "B000178",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "SINGHARA SHERBHUKKA",
+    "id": "B000186",
+    "parent_id": "D000018"
+  },
+  {
+    "region": "BRSA",
+    "name": "SITAMARHI",
+    "id": "B000124",
+    "parent_id": "D000013"
+  },
+  {
+    "region": "BRSA",
+    "name": "SIWAN",
+    "id": "B000528",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "SOHSA",
+    "id": "B000077",
+    "parent_id": "D000008"
+  },
+  {
+    "region": "BRSA",
+    "name": "SUKKI",
+    "id": "B000179",
+    "parent_id": "D000017"
+  },
+  {
+    "region": "BRSA",
+    "name": "SURNIA",
+    "id": "B000204",
+    "parent_id": "D000022"
+  },
+  {
+    "region": "BRSA",
+    "name": "TEHSUR",
+    "id": "B000553",
+    "parent_id": "D000014"
+  },
+  {
+    "region": "BRSA",
+    "name": "TILAUTA RASULPUR",
+    "id": "B000164",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "BRSA",
+    "name": "TUJARPUR",
+    "id": "B000158",
+    "parent_id": "D000016"
+  },
+  {
+    "region": "DOHA",
+    "name": "DOHA",
+    "id": "C000066",
+    "parent_id": "A0000"
+  },
+  {
+    "region": "DRSA",
+    "name": "JANAKPURI",
+    "id": "B000210",
+    "parent_id": "D000023"
+  },
+  {
+    "region": "DRSA",
+    "name": "KAROLBAGH",
+    "id": "B000211",
+    "parent_id": "D000023"
+  },
+  {
+    "region": "DRSA",
+    "name": "NARAINA",
+    "id": "B000212",
+    "parent_id": "D000023"
+  },
+  {
+    "region": "DRSA",
+    "name": "NEW DELHI",
+    "id": "B000213",
+    "parent_id": "D000024"
+  },
+  {
+    "region": "DRSA",
+    "name": "OLD DELHI",
+    "id": "B000214",
+    "parent_id": "D000023"
+  },
+  {
+    "region": "DRSA",
+    "name": "RAMESH ENCLAVE-C (JANAKPURI)",
+    "id": "C000095",
+    "parent_id": "B000210"
+  },
+  {
+    "region": "DRSA",
+    "name": "RAMESH NAGAR",
+    "id": "B000215",
+    "parent_id": "D000023"
+  },
+  {
+    "region": "DRSA",
+    "name": "SHAHDARA",
+    "id": "B000216",
+    "parent_id": "D000024"
+  },
+  {
+    "region": "DRSA",
+    "name": "SOAMI NAGAR(DELHI)",
+    "id": "B000217",
+    "parent_id": "D000024"
+  },
+  {
+    "region": "DRSA",
+    "name": "VINAY NAGAR",
+    "id": "B000218",
+    "parent_id": "D000024"
+  },
+  {
+    "region": "DRSAA",
+    "name": "ADELAIDE-C (MELBOURNE)",
+    "id": "C000080",
+    "parent_id": "B000513"
+  },
+  {
+    "region": "DRSAA",
+    "name": "MELBOURNE",
+    "id": "B000513",
+    "parent_id": "A0016"
+  },
+  {
+    "region": "DRSAA",
+    "name": "SYDNEY",
+    "id": "B000532",
+    "parent_id": "A0016"
+  },
+  {
+    "region": "DRSAE",
+    "name": "BIRMINGHAM",
+    "id": "B000515",
+    "parent_id": "A0013"
+  },
+  {
+    "region": "DRSAE",
+    "name": "HAMBURG",
+    "id": "B000516",
+    "parent_id": "A0013"
+  },
+  {
+    "region": "DRSAE",
+    "name": "KIEL-C (HAMBURG)",
+    "id": "C000068",
+    "parent_id": "B000516"
+  },
+  {
+    "region": "DRSAE",
+    "name": "LONDON",
+    "id": "B000514",
+    "parent_id": "A0013"
+  },
+  {
+    "region": "DRSANA",
+    "name": "ATLANTA",
+    "id": "B000526",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "BOSTON-C (NEW YORK)",
+    "id": "C000023",
+    "parent_id": "B000510"
+  },
+  {
+    "region": "DRSANA",
+    "name": "CALGARY",
+    "id": "B000540",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "CHICAGO",
+    "id": "B000509",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "DALLAS-C (ATLANTA)",
+    "id": "C000096",
+    "parent_id": "B000526"
+  },
+  {
+    "region": "DRSANA",
+    "name": "FLORIDA-C (ATLANTA)",
+    "id": "C000089",
+    "parent_id": "B000526"
+  },
+  {
+    "region": "DRSANA",
+    "name": "HOUSTON-C (ATLANTA)",
+    "id": "C000025",
+    "parent_id": "B000526"
+  },
+  {
+    "region": "DRSANA",
+    "name": "INDIANAPOLIS-C (CHICAGO)",
+    "id": "C000094",
+    "parent_id": "B000509"
+  },
+  {
+    "region": "DRSANA",
+    "name": "LONG ISLAND- -C (NEW YORK)",
+    "id": "C000097",
+    "parent_id": "B000510"
+  },
+  {
+    "region": "DRSANA",
+    "name": "LOS ANGELES -C (SAN FRANCISCO)",
+    "id": "C000026",
+    "parent_id": "B000511"
+  },
+  {
+    "region": "DRSANA",
+    "name": "MARYLAND -C (NEW YORK)",
+    "id": "B000559",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "MESA (ARIZONA)- C (SAN FRANCISCO)",
+    "id": "C000021",
+    "parent_id": "B000511"
+  },
+  {
+    "region": "DRSANA",
+    "name": "NEW YORK",
+    "id": "B000510",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "SAN FRANCISCO",
+    "id": "B000511",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "SEATTLE-C (CALGARY)",
+    "id": "C000088",
+    "parent_id": "B000540"
+  },
+  {
+    "region": "DRSANA",
+    "name": "TORONTO",
+    "id": "B000512",
+    "parent_id": "A0012"
+  },
+  {
+    "region": "DRSANA",
+    "name": "VANCOUVER-C (CALGARY)",
+    "id": "C000028",
+    "parent_id": "B000540"
+  },
+  {
+    "region": "DRSAP",
+    "name": "SINGAPORE",
+    "id": "B000550",
+    "parent_id": "A0015"
+  },
+  {
+    "region": "DUBAI",
+    "name": "DUBAI",
+    "id": "B000518",
+    "parent_id": "A0000"
+  },
+  {
+    "region": "HRSA",
+    "name": "AMBALA CANTT",
+    "id": "B000220",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "AMBALA CITY",
+    "id": "B000219",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "ARAINPURA",
+    "id": "B000241",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "BADSALA",
+    "id": "B000255",
+    "parent_id": "D000030"
+  },
+  {
+    "region": "HRSA",
+    "name": "BAHADURGARH",
+    "id": "B000234",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "BAIRSAL",
+    "id": "B000242",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "BARWALA",
+    "id": "B000221",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "BERTHALI",
+    "id": "B000531",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "BHIWANI",
+    "id": "B000232",
+    "parent_id": "D000026"
+  },
+  {
+    "region": "HRSA",
+    "name": "BIRAN",
+    "id": "B000233",
+    "parent_id": "D000026"
+  },
+  {
+    "region": "HRSA",
+    "name": "CHARKHI DADRI - C (BAHADURGARH)",
+    "id": "C000038",
+    "parent_id": "B000234"
+  },
+  {
+    "region": "HRSA",
+    "name": "DAGSHAI",
+    "id": "B000250",
+    "parent_id": "D000029"
+  },
+  {
+    "region": "HRSA",
+    "name": "DHARAMSALA",
+    "id": "B000252",
+    "parent_id": "D000030"
+  },
+  {
+    "region": "HRSA",
+    "name": "FARIDABAD",
+    "id": "B000236",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "FATEHPUR",
+    "id": "B000224",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "GANDAL",
+    "id": "B000248",
+    "parent_id": "D000029"
+  },
+  {
+    "region": "HRSA",
+    "name": "GOEDHA",
+    "id": "B000246",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "GUMTHALA GARHU",
+    "id": "B000225",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "GURGAON",
+    "id": "B000238",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "HISAR",
+    "id": "B000229",
+    "parent_id": "D000026"
+  },
+  {
+    "region": "HRSA",
+    "name": "KALKA",
+    "id": "B000222",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "KARNAL",
+    "id": "B000240",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "KOHAND",
+    "id": "B000243",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "KURUKSHETRA",
+    "id": "B000226",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "LADWA",
+    "id": "B000227",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "NAGROTA BHAGWAN -C (DHARAMSALA)",
+    "id": "C000037",
+    "parent_id": "B000252"
+  },
+  {
+    "region": "HRSA",
+    "name": "NARNAUL",
+    "id": "B000557",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "NARWANA",
+    "id": "B000520",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "PALWAL",
+    "id": "B000237",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "PANCHKULA",
+    "id": "B000228",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "PANIPAT",
+    "id": "B000245",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "RAWATSAR",
+    "id": "B000534",
+    "parent_id": "D000026"
+  },
+  {
+    "region": "HRSA",
+    "name": "REWARI (HRSA)",
+    "id": "B000544",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "ROHTAK",
+    "id": "B000235",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "SARAHAN",
+    "id": "B000249",
+    "parent_id": "D000029"
+  },
+  {
+    "region": "HRSA",
+    "name": "SHAHZADPUR",
+    "id": "B000551",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "HRSA",
+    "name": "SHAMGARH",
+    "id": "B000244",
+    "parent_id": "D000028"
+  },
+  {
+    "region": "HRSA",
+    "name": "SHIMLA",
+    "id": "B000247",
+    "parent_id": "D000029"
+  },
+  {
+    "region": "HRSA",
+    "name": "SIRSA",
+    "id": "B000231",
+    "parent_id": "D000026"
+  },
+  {
+    "region": "HRSA",
+    "name": "SOHNA ROAD - C (GURGAON)",
+    "id": "C000104",
+    "parent_id": "B000238"
+  },
+  {
+    "region": "HRSA",
+    "name": "SONEPAT",
+    "id": "B000239",
+    "parent_id": "D000027"
+  },
+  {
+    "region": "HRSA",
+    "name": "SUJANPUR TIRA",
+    "id": "B000254",
+    "parent_id": "D000030"
+  },
+  {
+    "region": "HRSA",
+    "name": "SUNDER NAGAR - C (SHIMLA)",
+    "id": "C000041",
+    "parent_id": "B000247"
+  },
+  {
+    "region": "HRSA",
+    "name": "THAKURDWARA",
+    "id": "B000253",
+    "parent_id": "D000030"
+  },
+  {
+    "region": "HRSA",
+    "name": "YAMUNA NAGAR",
+    "id": "B000223",
+    "parent_id": "D000025"
+  },
+  {
+    "region": "KUWAIT",
+    "name": "KUWAIT",
+    "id": "C000079",
+    "parent_id": "A0000"
+  },
+  {
+    "region": "MGRSA",
+    "name": "AHMEDABAD",
+    "id": "B000283",
+    "parent_id": "D000038"
+  },
+  {
+    "region": "MGRSA",
+    "name": "AURANGABAD-C (PUNE)",
+    "id": "C000083",
+    "parent_id": "B000280"
+  },
+  {
+    "region": "MGRSA",
+    "name": "BARODA",
+    "id": "B000285",
+    "parent_id": "D000038"
+  },
+  {
+    "region": "MGRSA",
+    "name": "GOA-C (PUNE)",
+    "id": "C000029",
+    "parent_id": "B000280"
+  },
+  {
+    "region": "MGRSA",
+    "name": "JAMNAGAR-C (AHMEDABAD)",
+    "id": "C000091",
+    "parent_id": "B000283"
+  },
+  {
+    "region": "MGRSA",
+    "name": "MEHSANA",
+    "id": "B000284",
+    "parent_id": "D000038"
+  },
+  {
+    "region": "MGRSA",
+    "name": "MUMBAI",
+    "id": "B000279",
+    "parent_id": "D000037"
+  },
+  {
+    "region": "MGRSA",
+    "name": "NAGPUR",
+    "id": "B000282",
+    "parent_id": "D000037"
+  },
+  {
+    "region": "MGRSA",
+    "name": "NANDURBAR",
+    "id": "B000281",
+    "parent_id": "D000037"
+  },
+  {
+    "region": "MGRSA",
+    "name": "NASIK-C (MUMBAI)",
+    "id": "C000093",
+    "parent_id": "B000279"
+  },
+  {
+    "region": "MGRSA",
+    "name": "PANVEL",
+    "id": "B000549",
+    "parent_id": "D000037"
+  },
+  {
+    "region": "MGRSA",
+    "name": "PUNE",
+    "id": "B000280",
+    "parent_id": "D000037"
+  },
+  {
+    "region": "MGRSA",
+    "name": "SURAT",
+    "id": "B000286",
+    "parent_id": "D000038"
+  },
+  {
+    "region": "MGRSA",
+    "name": "TITWALA-C (MUMBAI)",
+    "id": "C000099",
+    "parent_id": "B000279"
+  },
+  {
+    "region": "MGRSA",
+    "name": "VAPI",
+    "id": "B000547",
+    "parent_id": "D000038"
+  },
+  {
+    "region": "MGRSA",
+    "name": "VASAI-C  (MUMBAI)",
+    "id": "C000103",
+    "parent_id": "B000279"
+  },
+  {
+    "region": "MPRSA",
+    "name": "BHILAI",
+    "id": "B000256",
+    "parent_id": "A0005"
+  },
+  {
+    "region": "MPRSA",
+    "name": "BHIND",
+    "id": "C000090",
+    "parent_id": "B000257"
+  },
+  {
+    "region": "MPRSA",
+    "name": "BHOPAL",
+    "id": "B000267",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "BILASPUR",
+    "id": "C000030",
+    "parent_id": "A0005"
+  },
+  {
+    "region": "MPRSA",
+    "name": "DABRI",
+    "id": "B000271",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "DANTODYA",
+    "id": "B000262",
+    "parent_id": "D000033"
+  },
+  {
+    "region": "MPRSA",
+    "name": "DEWAS-C (INDORE)",
+    "id": "C000032",
+    "parent_id": "B000258"
+  },
+  {
+    "region": "MPRSA",
+    "name": "DHARAR-C (RATLAM)",
+    "id": "C000034",
+    "parent_id": "B000261"
+  },
+  {
+    "region": "MPRSA",
+    "name": "GUNA",
+    "id": "C000031",
+    "parent_id": "A0005"
+  },
+  {
+    "region": "MPRSA",
+    "name": "GWALIOR",
+    "id": "B000257",
+    "parent_id": "A0005"
+  },
+  {
+    "region": "MPRSA",
+    "name": "INDORE",
+    "id": "B000258",
+    "parent_id": "D000032"
+  },
+  {
+    "region": "MPRSA",
+    "name": "JABALPUR",
+    "id": "B000273",
+    "parent_id": "D000035"
+  },
+  {
+    "region": "MPRSA",
+    "name": "KHANDWA",
+    "id": "B000268",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "KOTRA BAHADUR",
+    "id": "B000264",
+    "parent_id": "D000033"
+  },
+  {
+    "region": "MPRSA",
+    "name": "MANDSAUR",
+    "id": "B000265",
+    "parent_id": "D000033"
+  },
+  {
+    "region": "MPRSA",
+    "name": "MOGRADHANA",
+    "id": "B000272",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "MORDI-C (KOTRA  BAHADUR)",
+    "id": "C000035",
+    "parent_id": "B000264"
+  },
+  {
+    "region": "MPRSA",
+    "name": "NAI NANNOOR",
+    "id": "B000266",
+    "parent_id": "D000033"
+  },
+  {
+    "region": "MPRSA",
+    "name": "PANDHANYA",
+    "id": "B000277",
+    "parent_id": "D000036"
+  },
+  {
+    "region": "MPRSA",
+    "name": "RAJABORARI",
+    "id": "B000269",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "RAJPUR BURWANI",
+    "id": "B000276",
+    "parent_id": "D000036"
+  },
+  {
+    "region": "MPRSA",
+    "name": "RATLAM",
+    "id": "B000261",
+    "parent_id": "D000033"
+  },
+  {
+    "region": "MPRSA",
+    "name": "REWA",
+    "id": "B000275",
+    "parent_id": "D000035"
+  },
+  {
+    "region": "MPRSA",
+    "name": "SAGAR-C (JABALPUR)",
+    "id": "C000033",
+    "parent_id": "B000273"
+  },
+  {
+    "region": "MPRSA",
+    "name": "SANWER",
+    "id": "B000259",
+    "parent_id": "D000032"
+  },
+  {
+    "region": "MPRSA",
+    "name": "SATNA",
+    "id": "B000274",
+    "parent_id": "D000035"
+  },
+  {
+    "region": "MPRSA",
+    "name": "SURANA",
+    "id": "B000278",
+    "parent_id": "D000036"
+  },
+  {
+    "region": "MPRSA",
+    "name": "TIMARNI",
+    "id": "B000270",
+    "parent_id": "D000034"
+  },
+  {
+    "region": "MPRSA",
+    "name": "UJJAIN",
+    "id": "B000260",
+    "parent_id": "D000032"
+  },
+  {
+    "region": "PRSA",
+    "name": "AHMEDGARH",
+    "id": "B000352",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "AITIYANA",
+    "id": "B000339",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "AMRITSAR",
+    "id": "B000330",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "BADHNI KALAN-C (MOGA)",
+    "id": "C000019",
+    "parent_id": "B000292"
+  },
+  {
+    "region": "PRSA",
+    "name": "BAGHA PURANA",
+    "id": "B000287",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "BAHALPUR",
+    "id": "B000307",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "BASSI-GULAM-HUSSAIN",
+    "id": "B000310",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "BATALA",
+    "id": "B000332",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "BATHINDA",
+    "id": "B000358",
+    "parent_id": "D000047"
+  },
+  {
+    "region": "PRSA",
+    "name": "BEGOWAL",
+    "id": "B000353",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "CHAMARU -C (RAJPURA)",
+    "id": "C000064",
+    "parent_id": "B000357"
+  },
+  {
+    "region": "PRSA",
+    "name": "CHANDIGARH",
+    "id": "B000296",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "DAUDHAR",
+    "id": "B000288",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "DAYALPUR",
+    "id": "B000321",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "DHARIWAL",
+    "id": "B000333",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "DHURKOT CHARAT SINGHWALA",
+    "id": "B000289",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "FAZILKA",
+    "id": "B000361",
+    "parent_id": "D000047"
+  },
+  {
+    "region": "PRSA",
+    "name": "FEROZEPUR",
+    "id": "B000294",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "GIDDARBAHA",
+    "id": "B000360",
+    "parent_id": "D000047"
+  },
+  {
+    "region": "PRSA",
+    "name": "GURDASPUR",
+    "id": "B000334",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "HALLO MAJRA",
+    "id": "B000297",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "HALWARA",
+    "id": "B000342",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "HIRANAGAR",
+    "id": "B000328",
+    "parent_id": "D000043"
+  },
+  {
+    "region": "PRSA",
+    "name": "HOSHIARPUR",
+    "id": "B000311",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "JAGRAON",
+    "id": "B000343",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "JALANDHAR",
+    "id": "B000318",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "JAMMU",
+    "id": "B000325",
+    "parent_id": "D000043"
+  },
+  {
+    "region": "PRSA",
+    "name": "JANDAWALA",
+    "id": "B000359",
+    "parent_id": "D000047"
+  },
+  {
+    "region": "PRSA",
+    "name": "JIANATHA",
+    "id": "B000312",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "KAJHERI",
+    "id": "B000298",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "KALANAUR",
+    "id": "B000336",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "KALEKE",
+    "id": "B000290",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "KANG JAGIR",
+    "id": "B000319",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "KAPURTHALA",
+    "id": "B000322",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "KATHUA",
+    "id": "B000329",
+    "parent_id": "D000043"
+  },
+  {
+    "region": "PRSA",
+    "name": "KHANDOOR",
+    "id": "B000344",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "KHANNA",
+    "id": "B000341",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "KHARAR",
+    "id": "B000301",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "KHERI-BHAI-KI",
+    "id": "B000355",
+    "parent_id": "D000046"
+  },
+  {
+    "region": "PRSA",
+    "name": "KISHANPURA KALAN",
+    "id": "B000295",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "KOKRI KALAN",
+    "id": "B000291",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "KULAR",
+    "id": "B000345",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "KURALI",
+    "id": "B000302",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "LAHORA",
+    "id": "B000299",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "LALTON KHURD-C (PHULLANWAL)",
+    "id": "C000065",
+    "parent_id": "B000348"
+  },
+  {
+    "region": "PRSA",
+    "name": "LANGATH",
+    "id": "B000326",
+    "parent_id": "D000043"
+  },
+  {
+    "region": "PRSA",
+    "name": "LUDHIANA",
+    "id": "B000346",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "MAHILPUR",
+    "id": "B000313",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "MANAULI",
+    "id": "B000303",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "MANOHARPUR",
+    "id": "B000335",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "MOGA",
+    "id": "B000292",
+    "parent_id": "D000039"
+  },
+  {
+    "region": "PRSA",
+    "name": "MOHALI",
+    "id": "B000308",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "MOHIE",
+    "id": "B000347",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "MULLANPUR-GHARIBDAS",
+    "id": "B000305",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "NABHA",
+    "id": "B000356",
+    "parent_id": "D000046"
+  },
+  {
+    "region": "PRSA",
+    "name": "NAMAKHU-C (JAMMU)",
+    "id": "C000082",
+    "parent_id": "B000325"
+  },
+  {
+    "region": "PRSA",
+    "name": "NANGAL",
+    "id": "B000306",
+    "parent_id": "D000040"
+  },
+  {
+    "region": "PRSA",
+    "name": "NASRALA",
+    "id": "B000314",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "NAWANSHAHR",
+    "id": "B000320",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "NIZAMPUR",
+    "id": "B000331",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "PAKHOCHAK",
+    "id": "B000337",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "PATHANKOT",
+    "id": "B000338",
+    "parent_id": "D000044"
+  },
+  {
+    "region": "PRSA",
+    "name": "PATIALA",
+    "id": "B000354",
+    "parent_id": "D000046"
+  },
+  {
+    "region": "PRSA",
+    "name": "PHULLANWAL",
+    "id": "B000348",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "RAIKOT",
+    "id": "B000349",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "RAJPURA",
+    "id": "B000357",
+    "parent_id": "D000046"
+  },
+  {
+    "region": "PRSA",
+    "name": "RAMIDI",
+    "id": "B000323",
+    "parent_id": "D000042"
+  },
+  {
+    "region": "PRSA",
+    "name": "RAMPUR BILRON",
+    "id": "B000315",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "ROPAR-C (KURALI)",
+    "id": "C000020",
+    "parent_id": "B000302"
+  },
+  {
+    "region": "PRSA",
+    "name": "SAMBA",
+    "id": "B000327",
+    "parent_id": "D000043"
+  },
+  {
+    "region": "PRSA",
+    "name": "SAMRALA",
+    "id": "B000350",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "SAWADDI KALAN",
+    "id": "B000351",
+    "parent_id": "D000045"
+  },
+  {
+    "region": "PRSA",
+    "name": "SOHIAN",
+    "id": "B000317",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "PRSA",
+    "name": "SULTANPUR LODHI",
+    "id": "C000105",
+    "parent_id": "B000322"
+  },
+  {
+    "region": "PRSA",
+    "name": "SWAR",
+    "id": "B000316",
+    "parent_id": "D000041"
+  },
+  {
+    "region": "RRSA",
+    "name": "AJMER",
+    "id": "B000370",
+    "parent_id": "D000050"
+  },
+  {
+    "region": "RRSA",
+    "name": "ALWAR-C (JAIPUR)",
+    "id": "C000072",
+    "parent_id": "B000367"
+  },
+  {
+    "region": "RRSA",
+    "name": "BADA KHEDA",
+    "id": "B000382",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "BALI JASSA KHERA",
+    "id": "B000381",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "BARAR",
+    "id": "B000379",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "BATHOTH",
+    "id": "B000364",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "BEAWAR",
+    "id": "B000371",
+    "parent_id": "D000050"
+  },
+  {
+    "region": "RRSA",
+    "name": "BHARATPUR",
+    "id": "B000368",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "BHILWARA",
+    "id": "B000385",
+    "parent_id": "D000053"
+  },
+  {
+    "region": "RRSA",
+    "name": "BHIM",
+    "id": "B000383",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "\"",
+    "name": null,
+    "id": null,
+    "parent_id": null
+  },
+  {
+    "region": "RRSA",
+    "name": "BHIWADI",
+    "id": "B000538",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "BIJAINAGAR",
+    "id": "B000372",
+    "parent_id": "D000050"
+  },
+  {
+    "region": "RRSA",
+    "name": "BIKANER",
+    "id": "B000376",
+    "parent_id": "D000051"
+  },
+  {
+    "region": "RRSA",
+    "name": "CHACHIWAD BADA-C (RASHIDPURA)",
+    "id": "C000057",
+    "parent_id": "B000363"
+  },
+  {
+    "region": "RRSA",
+    "name": "CHAK 7 G.B.",
+    "id": "B000375",
+    "parent_id": "D000051"
+  },
+  {
+    "region": "RRSA",
+    "name": "CHAKSU-C (JAIPUR)",
+    "id": "C000073",
+    "parent_id": "B000367"
+  },
+  {
+    "region": "RRSA",
+    "name": "DUNGARPUR-C (UDAIPUR)",
+    "id": "C000055",
+    "parent_id": "B000384"
+  },
+  {
+    "region": "RRSA",
+    "name": "HANUMAN GARH",
+    "id": "B000537",
+    "parent_id": "D000051"
+  },
+  {
+    "region": "RRSA",
+    "name": "JAIPUR",
+    "id": "B000367",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "JODHPUR",
+    "id": "B000373",
+    "parent_id": "D000050"
+  },
+  {
+    "region": "RRSA",
+    "name": "KALYANPUR",
+    "id": "B000386",
+    "parent_id": "D000053"
+  },
+  {
+    "region": "RRSA",
+    "name": "KISHANPURA",
+    "id": "B000378",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "KOTA",
+    "id": "B000369",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "MAHAPURA",
+    "id": "B000548",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "NAWALGARH",
+    "id": "B000365",
+    "parent_id": "D000049"
+  },
+  {
+    "region": "RRSA",
+    "name": "NEEM KA THANA",
+    "id": "B000365",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "PEMA KA KHEDA",
+    "id": "B000546",
+    "parent_id": "D000053"
+  },
+  {
+    "region": "RRSA",
+    "name": "PUROHIT JI KI DHANI",
+    "id": "B000530",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "RAMLEELA MAIDAN",
+    "id": "B000529",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "RASHIDPURA",
+    "id": "B000363",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "RAWATMAL",
+    "id": "B000377",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "SIKAR",
+    "id": "B000362",
+    "parent_id": "D000048"
+  },
+  {
+    "region": "RRSA",
+    "name": "SRIGANGANAGAR",
+    "id": "B000374",
+    "parent_id": "D000051"
+  },
+  {
+    "region": "RRSA",
+    "name": "TODGARH",
+    "id": "B000380",
+    "parent_id": "D000052"
+  },
+  {
+    "region": "RRSA",
+    "name": "UDAIPUR",
+    "id": "B000384",
+    "parent_id": "D000053"
+  },
+  {
+    "region": "SRILANKA",
+    "name": "COLOMBO",
+    "id": "B000521",
+    "parent_id": "A0014"
+  },
+  {
+    "region": "SRILANKA",
+    "name": "JAFFNA",
+    "id": "B000522",
+    "parent_id": "A0014"
+  },
+  {
+    "region": "TRSA",
+    "name": "AMBASAMUDRAM",
+    "id": "B000394",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "TRSA",
+    "name": "AUTHOOR",
+    "id": "B000395",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "TRSA",
+    "name": "COIMBATORE",
+    "id": "B000391",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "KADAYAM",
+    "id": "B000396",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "TRSA",
+    "name": "M.T.V. PURAM",
+    "id": "B000401",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "TRSA",
+    "name": "MADRAS",
+    "id": "B000392",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "MADURAI",
+    "id": "B000387",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "SALEM",
+    "id": "B000393",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "SRIVILLIPUTTUR",
+    "id": "B000388",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "SURANDAI",
+    "id": "B000398",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "TRSA",
+    "name": "T.KALLUPATTI",
+    "id": "B000389",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "TIRUCHIRAPALLI",
+    "id": "B000390",
+    "parent_id": "D000054"
+  },
+  {
+    "region": "TRSA",
+    "name": "TIRUNELVELI",
+    "id": "B000399",
+    "parent_id": "D000055"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ADANBAGH",
+    "id": "B000408",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AGRA CITY",
+    "id": "B000409",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AGRAS",
+    "id": "B000459",
+    "parent_id": "D000065"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AHERIPUR",
+    "id": "B000441",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AJABPUR",
+    "id": "B000442",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AKBARPUR-C (BAREILLY)",
+    "id": "C000059",
+    "parent_id": "B000461"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ALIGARH",
+    "id": "B000411",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ALLAHABAD",
+    "id": "B000422",
+    "parent_id": "D000058"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ALORA",
+    "id": "B000410",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AURAIYA",
+    "id": "B000450",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "AZAMGARH",
+    "id": "B000489",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BADAUN",
+    "id": "B000461",
+    "parent_id": "D000065"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BAHADURPUR",
+    "id": "B000443",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BAHRAICH",
+    "id": "B000432",
+    "parent_id": "D000059"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BALLIA",
+    "id": "B000483",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BANDA- C (JHANSI)",
+    "id": "C000048",
+    "parent_id": "B000463"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BARA BANKI - C (LUCKNOW)",
+    "id": "C000067",
+    "parent_id": "B000427"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BAREILLY",
+    "id": "B000460",
+    "parent_id": "D000065"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BHAGWANGARHI",
+    "id": "B000412",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BHARTHANA",
+    "id": "B000444",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BHIDAUNI",
+    "id": "B000405",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BIDHUNA",
+    "id": "B000445",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BIJNOR",
+    "id": "B000473",
+    "parent_id": "D000068"
+  },
+  {
+    "region": "UPRSA",
+    "name": "BILHAUR",
+    "id": "B000477",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "CHAKERI",
+    "id": "B000478",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "CHHAURA GADAUA",
+    "id": "B000417",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "CHIRAULI",
+    "id": "B000413",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DAHIA",
+    "id": "B000423",
+    "parent_id": "D000058"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DEBTHUA",
+    "id": "B000433",
+    "parent_id": "D000060"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DEHRADUN",
+    "id": "B000440",
+    "parent_id": "D000061"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DEORIA",
+    "id": "B000457",
+    "parent_id": "D000064"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DERHGAON",
+    "id": "B000437",
+    "parent_id": "D000060"
+  },
+  {
+    "region": "UPRSA",
+    "name": "DHAMPUR- C (MORADABAD)",
+    "id": "C000052",
+    "parent_id": "B000473"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ETAWAH",
+    "id": "B000446",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "FAIZABAD",
+    "id": "B000430",
+    "parent_id": "D000059"
+  },
+  {
+    "region": "UPRSA",
+    "name": "FATEHGARH - C (KANPUR)",
+    "id": "C000049",
+    "parent_id": "B000477"
+  },
+  {
+    "region": "UPRSA",
+    "name": "FIROZABAD",
+    "id": "B000402",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GAHARRA-C (BAREILLY)",
+    "id": "C000060",
+    "parent_id": "B000460"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GHAZIABAD",
+    "id": "B000469",
+    "parent_id": "D000067"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GHAZIPUR",
+    "id": "B000482",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GHUNGRAWALI",
+    "id": "B000419",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GOPALPURA",
+    "id": "B000403",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GORAKHPUR",
+    "id": "B000455",
+    "parent_id": "D000064"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GUNAULI -C (ETAWAH)",
+    "id": "C000046",
+    "parent_id": "B000445"
+  },
+  {
+    "region": "UPRSA",
+    "name": "GUTAIYA",
+    "id": "B000479",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "HARDOI",
+    "id": "B000429",
+    "parent_id": "D000059"
+  },
+  {
+    "region": "UPRSA",
+    "name": "Haridwar",
+    "id": "B000556",
+    "parent_id": "D000061"
+  },
+  {
+    "region": "UPRSA",
+    "name": "HASANPUR CHANDPUR-C (MORADABAD)",
+    "id": "C000053",
+    "parent_id": "B000475"
+  },
+  {
+    "region": "UPRSA",
+    "name": "INDERPURA",
+    "id": "B000464",
+    "parent_id": "D000066"
+  },
+  {
+    "region": "UPRSA",
+    "name": "JATTARI- C (ALIGARH)",
+    "id": "C000101",
+    "parent_id": "B000415"
+  },
+  {
+    "region": "UPRSA",
+    "name": "JAUNPUR",
+    "id": "B000436",
+    "parent_id": "D000060"
+  },
+  {
+    "region": "UPRSA",
+    "name": "JHANSI",
+    "id": "B000463",
+    "parent_id": "D000066"
+  },
+  {
+    "region": "UPRSA",
+    "name": "KAIRANA",
+    "id": "B000493",
+    "parent_id": "D000071"
+  },
+  {
+    "region": "UPRSA",
+    "name": "KANPUR",
+    "id": "B000476",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "KASGANJ",
+    "id": "B000452",
+    "parent_id": "D000063"
+  },
+  {
+    "region": "UPRSA",
+    "name": "KASHIPUR",
+    "id": "B000438",
+    "parent_id": "D000061"
+  },
+  {
+    "region": "UPRSA",
+    "name": "KHURJA",
+    "id": "B000527",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "LAKHNA",
+    "id": "B000447",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "LALA KA NAGLA",
+    "id": "B000420",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "LALITPUR",
+    "id": "B000466",
+    "parent_id": "D000066"
+  },
+  {
+    "region": "UPRSA",
+    "name": "LUCKNOW",
+    "id": "B000427",
+    "parent_id": "D000059"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MAHEPA",
+    "id": "B000418",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MAHO",
+    "id": "B000421",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MATHURA",
+    "id": "B000406",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MEERUT",
+    "id": "B000467",
+    "parent_id": "D000067"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MIRZAPUR",
+    "id": "B000425",
+    "parent_id": "D000058"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MODI NAGAR",
+    "id": "B000468",
+    "parent_id": "D000067"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MOHAMMADABAD",
+    "id": "B000487",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MORADABAD",
+    "id": "B000475",
+    "parent_id": "D000068"
+  },
+  {
+    "region": "UPRSA",
+    "name": "MUZAFFAR NAGAR",
+    "id": "B000490",
+    "parent_id": "D000071"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NAGLA GIRWAR",
+    "id": "B000414",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NAGLA KUNJI",
+    "id": "B000533",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NAGLA RAJJI",
+    "id": "B000453",
+    "parent_id": "D000063"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NAGLA SAMAS",
+    "id": "B000451",
+    "parent_id": "D000063"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NARAMAU",
+    "id": "B000480",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NASIDIPUR",
+    "id": "B000448",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "NOIDA",
+    "id": "B000470",
+    "parent_id": "D000067"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ORAI",
+    "id": "B000465",
+    "parent_id": "D000066"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PACHGAIN",
+    "id": "B000404",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PAUSARA",
+    "id": "B000431",
+    "parent_id": "D000059"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PAWATIKALAN",
+    "id": "B000494",
+    "parent_id": "D000071"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PHULPUR",
+    "id": "B000449",
+    "parent_id": "D000062"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PINDRA",
+    "id": "B000434",
+    "parent_id": "D000060"
+  },
+  {
+    "region": "UPRSA",
+    "name": "POORANPUR",
+    "id": "B000462",
+    "parent_id": "D000065"
+  },
+  {
+    "region": "UPRSA",
+    "name": "PREMPUR",
+    "id": "B000407",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "RAFIPUR",
+    "id": "B000486",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "RAMNAGAR-C (KASGANJ)",
+    "id": "C000045",
+    "parent_id": "B000452"
+  },
+  {
+    "region": "UPRSA",
+    "name": "RASRA",
+    "id": "B000484",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ROORKEE",
+    "id": "B000439",
+    "parent_id": "D000061"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SAHARANPUR",
+    "id": "B000491",
+    "parent_id": "D000071"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SAHARSA",
+    "id": "B000539",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SAMOGARH",
+    "id": "B000535",
+    "parent_id": "D000056"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SHAHJAHANPUR-C (BAREILLY)",
+    "id": "C000061",
+    "parent_id": "B000460"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SHIVPURGARHI",
+    "id": "B000424",
+    "parent_id": "D000058"
+  },
+  {
+    "region": "UPRSA",
+    "name": "SULTANPUR",
+    "id": "B000426",
+    "parent_id": "D000058"
+  },
+  {
+    "region": "UPRSA",
+    "name": "TAHARPUR",
+    "id": "B000536",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "TAMKUHI ROAD",
+    "id": "B000458",
+    "parent_id": "D000064"
+  },
+  {
+    "region": "UPRSA",
+    "name": "THANPUR",
+    "id": "B000415",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "TODARPUR",
+    "id": "B000492",
+    "parent_id": "D000071"
+  },
+  {
+    "region": "UPRSA",
+    "name": "UDAIBHAN",
+    "id": "B000416",
+    "parent_id": "D000057"
+  },
+  {
+    "region": "UPRSA",
+    "name": "UNNAO",
+    "id": "B000481",
+    "parent_id": "D000069"
+  },
+  {
+    "region": "UPRSA",
+    "name": "VARANASI",
+    "id": "B000435",
+    "parent_id": "D000060"
+  },
+  {
+    "region": "UPRSA",
+    "name": "YAKUTGANJ",
+    "id": "B000454",
+    "parent_id": "D000063"
+  },
+  {
+    "region": "UPRSA",
+    "name": "ZAMANIA",
+    "id": "B000488",
+    "parent_id": "D000070"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "BAHULA",
+    "id": "B000495",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "BARAKAR",
+    "id": "B000498",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "BERHAMPUR",
+    "id": "B000505",
+    "parent_id": "D000073"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "BHUBANESHWAR",
+    "id": "B000504",
+    "parent_id": "D000073"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "BURNPUR",
+    "id": "B000497",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "CALCUTTA",
+    "id": "B000503",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "CHANDIPUR",
+    "id": "B000545",
+    "parent_id": "D000073"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "DURGAPUR",
+    "id": "B000496",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "GURAP",
+    "id": "B000499",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "KHARAGPUR",
+    "id": "B000501",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "MIDNAPUR",
+    "id": "B000502",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "ROURKELA",
+    "id": "B000508",
+    "parent_id": "D000073"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "SHEORAPHULI",
+    "id": "B000500",
+    "parent_id": "D000072"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "SUNABEDA",
+    "id": "B000507",
+    "parent_id": "D000073"
+  },
+  {
+    "region": "WBOERSA",
+    "name": "UPPALADA",
+    "id": "B000506",
+    "parent_id": "D000073"
+  }
+]

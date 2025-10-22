@@ -1,0 +1,430 @@
+[
+  {
+    "name": "Adur",
+    "code": "IN"
+  },
+  {
+    "name": "Alappuzha",
+    "code": "IN"
+  },
+  {
+    "name": "Aluva",
+    "code": "IN"
+  },
+  {
+    "name": "Alwaye",
+    "code": "IN"
+  },
+  {
+    "name": "Angamali",
+    "code": "IN"
+  },
+  {
+    "name": "Aroor",
+    "code": "IN"
+  },
+  {
+    "name": "Arukutti",
+    "code": "IN"
+  },
+  {
+    "name": "Attingal",
+    "code": "IN"
+  },
+  {
+    "name": "Avanoor",
+    "code": "IN"
+  },
+  {
+    "name": "Azhikkal",
+    "code": "IN"
+  },
+  {
+    "name": "Badagara",
+    "code": "IN"
+  },
+  {
+    "name": "Beypore",
+    "code": "IN"
+  },
+  {
+    "name": "Changanacheri",
+    "code": "IN"
+  },
+  {
+    "name": "Chengannur",
+    "code": "IN"
+  },
+  {
+    "name": "Cherpulassery",
+    "code": "IN"
+  },
+  {
+    "name": "Cherthala",
+    "code": "IN"
+  },
+  {
+    "name": "Chetwayi",
+    "code": "IN"
+  },
+  {
+    "name": "Chittur",
+    "code": "IN"
+  },
+  {
+    "name": "Chēlakara",
+    "code": "IN"
+  },
+  {
+    "name": "Cochin",
+    "code": "IN"
+  },
+  {
+    "name": "Dharmadam",
+    "code": "IN"
+  },
+  {
+    "name": "Edakkulam",
+    "code": "IN"
+  },
+  {
+    "name": "Elur",
+    "code": "IN"
+  },
+  {
+    "name": "Erattupetta",
+    "code": "IN"
+  },
+  {
+    "name": "Ernakulam",
+    "code": "IN"
+  },
+  {
+    "name": "Ferokh",
+    "code": "IN"
+  },
+  {
+    "name": "Guruvayur",
+    "code": "IN"
+  },
+  {
+    "name": "Idukki",
+    "code": "IN"
+  },
+  {
+    "name": "Iringal",
+    "code": "IN"
+  },
+  {
+    "name": "Irinjalakuda",
+    "code": "IN"
+  },
+  {
+    "name": "Kadakkavoor",
+    "code": "IN"
+  },
+  {
+    "name": "Kalamassery",
+    "code": "IN"
+  },
+  {
+    "name": "Kalavoor",
+    "code": "IN"
+  },
+  {
+    "name": "Kalpatta",
+    "code": "IN"
+  },
+  {
+    "name": "Kannangad",
+    "code": "IN"
+  },
+  {
+    "name": "Kannavam",
+    "code": "IN"
+  },
+  {
+    "name": "Kannur",
+    "code": "IN"
+  },
+  {
+    "name": "Kasaragod",
+    "code": "IN"
+  },
+  {
+    "name": "Kasaragod District",
+    "code": "IN"
+  },
+  {
+    "name": "Kattanam",
+    "code": "IN"
+  },
+  {
+    "name": "Kayankulam",
+    "code": "IN"
+  },
+  {
+    "name": "Kizhake Chalakudi",
+    "code": "IN"
+  },
+  {
+    "name": "Kodungallur",
+    "code": "IN"
+  },
+  {
+    "name": "Kollam",
+    "code": "IN"
+  },
+  {
+    "name": "Kotamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kottayam",
+    "code": "IN"
+  },
+  {
+    "name": "Kovalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kozhikode",
+    "code": "IN"
+  },
+  {
+    "name": "Kumbalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kunnamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Kunnamkulam",
+    "code": "IN"
+  },
+  {
+    "name": "Kunnumma",
+    "code": "IN"
+  },
+  {
+    "name": "Kutiatodu",
+    "code": "IN"
+  },
+  {
+    "name": "Kuttampuzha",
+    "code": "IN"
+  },
+  {
+    "name": "Lalam",
+    "code": "IN"
+  },
+  {
+    "name": "Mahē",
+    "code": "IN"
+  },
+  {
+    "name": "Malappuram",
+    "code": "IN"
+  },
+  {
+    "name": "Manjeri",
+    "code": "IN"
+  },
+  {
+    "name": "Manjēshvar",
+    "code": "IN"
+  },
+  {
+    "name": "Mannarakkat",
+    "code": "IN"
+  },
+  {
+    "name": "Marayur",
+    "code": "IN"
+  },
+  {
+    "name": "Mattanur",
+    "code": "IN"
+  },
+  {
+    "name": "Mavelikara",
+    "code": "IN"
+  },
+  {
+    "name": "Mavoor",
+    "code": "IN"
+  },
+  {
+    "name": "Muluppilagadu",
+    "code": "IN"
+  },
+  {
+    "name": "Munnar",
+    "code": "IN"
+  },
+  {
+    "name": "Muvattupula",
+    "code": "IN"
+  },
+  {
+    "name": "Muvattupuzha",
+    "code": "IN"
+  },
+  {
+    "name": "Nadapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Naduvannur",
+    "code": "IN"
+  },
+  {
+    "name": "Nedumangad",
+    "code": "IN"
+  },
+  {
+    "name": "Neyyattinkara",
+    "code": "IN"
+  },
+  {
+    "name": "Nilēshwar",
+    "code": "IN"
+  },
+  {
+    "name": "Ottappalam",
+    "code": "IN"
+  },
+  {
+    "name": "Palackattumala",
+    "code": "IN"
+  },
+  {
+    "name": "Palakkad district",
+    "code": "IN"
+  },
+  {
+    "name": "Palghat",
+    "code": "IN"
+  },
+  {
+    "name": "Panamaram",
+    "code": "IN"
+  },
+  {
+    "name": "Pappinisshēri",
+    "code": "IN"
+  },
+  {
+    "name": "Paravur Tekkumbhagam",
+    "code": "IN"
+  },
+  {
+    "name": "Pariyapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Pathanamthitta",
+    "code": "IN"
+  },
+  {
+    "name": "Pattanamtitta",
+    "code": "IN"
+  },
+  {
+    "name": "Payyannur",
+    "code": "IN"
+  },
+  {
+    "name": "Perumbavoor",
+    "code": "IN"
+  },
+  {
+    "name": "Perumpavur",
+    "code": "IN"
+  },
+  {
+    "name": "Perya",
+    "code": "IN"
+  },
+  {
+    "name": "Piravam",
+    "code": "IN"
+  },
+  {
+    "name": "Ponmana",
+    "code": "IN"
+  },
+  {
+    "name": "Ponnani",
+    "code": "IN"
+  },
+  {
+    "name": "Punalur",
+    "code": "IN"
+  },
+  {
+    "name": "Ramamangalam",
+    "code": "IN"
+  },
+  {
+    "name": "Shertallai",
+    "code": "IN"
+  },
+  {
+    "name": "Shōranur",
+    "code": "IN"
+  },
+  {
+    "name": "Talipparamba",
+    "code": "IN"
+  },
+  {
+    "name": "Tellicherry",
+    "code": "IN"
+  },
+  {
+    "name": "Thanniyam",
+    "code": "IN"
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "code": "IN"
+  },
+  {
+    "name": "Thrissur",
+    "code": "IN"
+  },
+  {
+    "name": "Thrissur District",
+    "code": "IN"
+  },
+  {
+    "name": "Tirur",
+    "code": "IN"
+  },
+  {
+    "name": "Tiruvalla",
+    "code": "IN"
+  },
+  {
+    "name": "Vaikam",
+    "code": "IN"
+  },
+  {
+    "name": "Varkala",
+    "code": "IN"
+  },
+  {
+    "name": "Vayalar",
+    "code": "IN"
+  },
+  {
+    "name": "Vettur",
+    "code": "IN"
+  },
+  {
+    "name": "Wayanad",
+    "code": "IN"
+  }
+]

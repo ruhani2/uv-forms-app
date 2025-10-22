@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Ambala",
+    "code": "IN"
+  },
+  {
+    "name": "Asandh",
+    "code": "IN"
+  },
+  {
+    "name": "Ateli Mandi",
+    "code": "IN"
+  },
+  {
+    "name": "Bahadurgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Bara Uchana",
+    "code": "IN"
+  },
+  {
+    "name": "Barwala",
+    "code": "IN"
+  },
+  {
+    "name": "Bawal",
+    "code": "IN"
+  },
+  {
+    "name": "Beri Khas",
+    "code": "IN"
+  },
+  {
+    "name": "Bhiwani",
+    "code": "IN"
+  },
+  {
+    "name": "Bilaspur",
+    "code": "IN"
+  },
+  {
+    "name": "Buriya",
+    "code": "IN"
+  },
+  {
+    "name": "Charkhi Dadri",
+    "code": "IN"
+  },
+  {
+    "name": "Chhachhrauli",
+    "code": "IN"
+  },
+  {
+    "name": "Dabwali",
+    "code": "IN"
+  },
+  {
+    "name": "Dharuhera",
+    "code": "IN"
+  },
+  {
+    "name": "Ellenabad",
+    "code": "IN"
+  },
+  {
+    "name": "Faridabad",
+    "code": "IN"
+  },
+  {
+    "name": "Faridabad District",
+    "code": "IN"
+  },
+  {
+    "name": "Farrukhnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Fatehabad",
+    "code": "IN"
+  },
+  {
+    "name": "Fatehabad District",
+    "code": "IN"
+  },
+  {
+    "name": "Firozpur Jhirka",
+    "code": "IN"
+  },
+  {
+    "name": "Gharaunda",
+    "code": "IN"
+  },
+  {
+    "name": "Gohana",
+    "code": "IN"
+  },
+  {
+    "name": "Gorakhpur",
+    "code": "IN"
+  },
+  {
+    "name": "Gurgaon",
+    "code": "IN"
+  },
+  {
+    "name": "Hansi",
+    "code": "IN"
+  },
+  {
+    "name": "Hasanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Hisar",
+    "code": "IN"
+  },
+  {
+    "name": "Hodal",
+    "code": "IN"
+  },
+  {
+    "name": "Inda Chhoi",
+    "code": "IN"
+  },
+  {
+    "name": "Indri",
+    "code": "IN"
+  },
+  {
+    "name": "Jagadhri",
+    "code": "IN"
+  },
+  {
+    "name": "Jakhal",
+    "code": "IN"
+  },
+  {
+    "name": "Jhajjar",
+    "code": "IN"
+  },
+  {
+    "name": "Jind",
+    "code": "IN"
+  },
+  {
+    "name": "Kaithal",
+    "code": "IN"
+  },
+  {
+    "name": "Kalanaur",
+    "code": "IN"
+  },
+  {
+    "name": "Kalanwali",
+    "code": "IN"
+  },
+  {
+    "name": "Kanina Khas",
+    "code": "IN"
+  },
+  {
+    "name": "Karnal",
+    "code": "IN"
+  },
+  {
+    "name": "Kharkhauda",
+    "code": "IN"
+  },
+  {
+    "name": "Kheri Sampla",
+    "code": "IN"
+  },
+  {
+    "name": "Kurukshetra",
+    "code": "IN"
+  },
+  {
+    "name": "Ladwa",
+    "code": "IN"
+  },
+  {
+    "name": "Loharu",
+    "code": "IN"
+  },
+  {
+    "name": "Maham",
+    "code": "IN"
+  },
+  {
+    "name": "Mahendragarh",
+    "code": "IN"
+  },
+  {
+    "name": "Mandholi Kalan",
+    "code": "IN"
+  },
+  {
+    "name": "Mustafabad",
+    "code": "IN"
+  },
+  {
+    "name": "Narayangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Narnaul",
+    "code": "IN"
+  },
+  {
+    "name": "Narnaund",
+    "code": "IN"
+  },
+  {
+    "name": "Narwana",
+    "code": "IN"
+  },
+  {
+    "name": "Nilokheri",
+    "code": "IN"
+  },
+  {
+    "name": "Nuh",
+    "code": "IN"
+  },
+  {
+    "name": "Palwal",
+    "code": "IN"
+  },
+  {
+    "name": "Panchkula",
+    "code": "IN"
+  },
+  {
+    "name": "Panipat",
+    "code": "IN"
+  },
+  {
+    "name": "Pataudi",
+    "code": "IN"
+  },
+  {
+    "name": "Pehowa",
+    "code": "IN"
+  },
+  {
+    "name": "Pinjaur",
+    "code": "IN"
+  },
+  {
+    "name": "Punahana",
+    "code": "IN"
+  },
+  {
+    "name": "Pundri",
+    "code": "IN"
+  },
+  {
+    "name": "Radaur",
+    "code": "IN"
+  },
+  {
+    "name": "Rania",
+    "code": "IN"
+  },
+  {
+    "name": "Ratia",
+    "code": "IN"
+  },
+  {
+    "name": "Rewari",
+    "code": "IN"
+  },
+  {
+    "name": "Rewari District",
+    "code": "IN"
+  },
+  {
+    "name": "Rohtak",
+    "code": "IN"
+  },
+  {
+    "name": "Safidon",
+    "code": "IN"
+  },
+  {
+    "name": "Samalkha",
+    "code": "IN"
+  },
+  {
+    "name": "Shadipur Julana",
+    "code": "IN"
+  },
+  {
+    "name": "Shahabad",
+    "code": "IN"
+  },
+  {
+    "name": "Sirsa",
+    "code": "IN"
+  },
+  {
+    "name": "Sohna",
+    "code": "IN"
+  },
+  {
+    "name": "Sonipat",
+    "code": "IN"
+  },
+  {
+    "name": "Taoru",
+    "code": "IN"
+  },
+  {
+    "name": "Thanesar",
+    "code": "IN"
+  },
+  {
+    "name": "Tohana",
+    "code": "IN"
+  },
+  {
+    "name": "Tosham",
+    "code": "IN"
+  },
+  {
+    "name": "Uklana",
+    "code": "IN"
+  },
+  {
+    "name": "Yamunanagar",
+    "code": "IN"
+  }
+]
