@@ -207,6 +207,33 @@ async function insertTestUsers() {
   }
 }
 
+async function createBhandaras() {
+  // Assuming a facility with id 1 exists from insertBranchesAndCenters
+  const dummyFacility = await prisma.facility.findFirst();
+
+  if (dummyFacility) {
+    await prisma.bhandara.upsert({
+      where: { key: "DUMMY_BHANDARA" },
+      update: {
+        name: "Dummy Bhandara",
+        bhandaraDate: new Date("2024-01-01T00:00:00Z"),
+        facilityId: dummyFacility.id,
+      },
+      create: {
+        name: "Dummy Bhandara",
+        key: "DUMMY_BHANDARA",
+        bhandaraDate: new Date("2024-01-01T00:00:00Z"),
+        facilityId: dummyFacility.id,
+      },
+    });
+    console.log("Upserted dummy Bhandara");
+  } else {
+    console.log(
+      "No facility found to link Bhandara to. Please ensure facilities are seeded."
+    );
+  }
+}
+
 export async function seed() {
   console.log(`Start seeding for ${process.env.NODE_ENV} environment...`);
   console.log("process.env.NODE_ENV:", process.env.NODE_ENV);
@@ -216,6 +243,7 @@ export async function seed() {
     await insertRoles();
     await insertCountriesAndStatesAndCities();
     await insertBranchesAndCenters();
+    await createBhandaras(); // Call createBhandaras after facilities are created
     await insertTestUsers();
   } else if (process.env.NODE_ENV === "testing") {
     // Seed data for testing

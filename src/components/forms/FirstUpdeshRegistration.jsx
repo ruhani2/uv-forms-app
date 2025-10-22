@@ -147,14 +147,27 @@ export default function FirstUpdeshRegistration() {
     }
     if (isValid) {
       const values = methods.getValues();
-      if (step === 2) {
-        if (isSpousePageRequired(values) || isGuardianPageRequired(values)) {
-          setStep(3);
+
+      const response = await fetch("/api/first_updesh_registration", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(values),
+      });
+
+      const data = await response.json();
+
+      if (data.id) {
+        if (step === 2) {
+          if (isSpousePageRequired(values) || isGuardianPageRequired(values)) {
+            setStep(3);
+          } else {
+            setStep(4);
+          }
         } else {
-          setStep(4);
+          setStep((s) => Math.min(s + 1, steps.length - 1));
         }
-      } else {
-        setStep((s) => Math.min(s + 1, steps.length - 1));
       }
     }
   }, [step, methods]);
