@@ -1,0 +1,750 @@
+[
+  {
+    "name": "Abhaneri",
+    "code": "IN"
+  },
+  {
+    "name": "Abu",
+    "code": "IN"
+  },
+  {
+    "name": "Abu Road",
+    "code": "IN"
+  },
+  {
+    "name": "Ajmer",
+    "code": "IN"
+  },
+  {
+    "name": "Aklera",
+    "code": "IN"
+  },
+  {
+    "name": "Alwar",
+    "code": "IN"
+  },
+  {
+    "name": "Amet",
+    "code": "IN"
+  },
+  {
+    "name": "Anta",
+    "code": "IN"
+  },
+  {
+    "name": "Anupgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Asind",
+    "code": "IN"
+  },
+  {
+    "name": "Bagar",
+    "code": "IN"
+  },
+  {
+    "name": "Bakani",
+    "code": "IN"
+  },
+  {
+    "name": "Bali",
+    "code": "IN"
+  },
+  {
+    "name": "Balotra",
+    "code": "IN"
+  },
+  {
+    "name": "Bandikui",
+    "code": "IN"
+  },
+  {
+    "name": "Banswara",
+    "code": "IN"
+  },
+  {
+    "name": "Baran",
+    "code": "IN"
+  },
+  {
+    "name": "Bari",
+    "code": "IN"
+  },
+  {
+    "name": "Bari Sadri",
+    "code": "IN"
+  },
+  {
+    "name": "Barmer",
+    "code": "IN"
+  },
+  {
+    "name": "Basi",
+    "code": "IN"
+  },
+  {
+    "name": "Basni",
+    "code": "IN"
+  },
+  {
+    "name": "Baswa",
+    "code": "IN"
+  },
+  {
+    "name": "Bayana",
+    "code": "IN"
+  },
+  {
+    "name": "Beawar",
+    "code": "IN"
+  },
+  {
+    "name": "Begun",
+    "code": "IN"
+  },
+  {
+    "name": "Behror",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadasar",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadra",
+    "code": "IN"
+  },
+  {
+    "name": "Bharatpur",
+    "code": "IN"
+  },
+  {
+    "name": "Bhasawar",
+    "code": "IN"
+  },
+  {
+    "name": "Bhilwara",
+    "code": "IN"
+  },
+  {
+    "name": "Bhindar",
+    "code": "IN"
+  },
+  {
+    "name": "Bhinmal",
+    "code": "IN"
+  },
+  {
+    "name": "Bhiwadi",
+    "code": "IN"
+  },
+  {
+    "name": "Bhuma",
+    "code": "IN"
+  },
+  {
+    "name": "Bikaner",
+    "code": "IN"
+  },
+  {
+    "name": "Bilara",
+    "code": "IN"
+  },
+  {
+    "name": "Bissau",
+    "code": "IN"
+  },
+  {
+    "name": "Borkhera",
+    "code": "IN"
+  },
+  {
+    "name": "Bundi",
+    "code": "IN"
+  },
+  {
+    "name": "Chaksu",
+    "code": "IN"
+  },
+  {
+    "name": "Chechat",
+    "code": "IN"
+  },
+  {
+    "name": "Chhabra",
+    "code": "IN"
+  },
+  {
+    "name": "Chhapar",
+    "code": "IN"
+  },
+  {
+    "name": "Chhoti Sadri",
+    "code": "IN"
+  },
+  {
+    "name": "Chidawa",
+    "code": "IN"
+  },
+  {
+    "name": "Chittaurgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Churu",
+    "code": "IN"
+  },
+  {
+    "name": "Dariba",
+    "code": "IN"
+  },
+  {
+    "name": "Dausa",
+    "code": "IN"
+  },
+  {
+    "name": "Deoli",
+    "code": "IN"
+  },
+  {
+    "name": "Deshnoke",
+    "code": "IN"
+  },
+  {
+    "name": "Devgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Dhaulpur",
+    "code": "IN"
+  },
+  {
+    "name": "Didwana",
+    "code": "IN"
+  },
+  {
+    "name": "Dig",
+    "code": "IN"
+  },
+  {
+    "name": "Dungarpur",
+    "code": "IN"
+  },
+  {
+    "name": "Fatehpur",
+    "code": "IN"
+  },
+  {
+    "name": "Galiakot",
+    "code": "IN"
+  },
+  {
+    "name": "Ganganagar",
+    "code": "IN"
+  },
+  {
+    "name": "Gangapur",
+    "code": "IN"
+  },
+  {
+    "name": "Govindgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Gulabpura",
+    "code": "IN"
+  },
+  {
+    "name": "Hanumangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Hindaun",
+    "code": "IN"
+  },
+  {
+    "name": "Jahazpur",
+    "code": "IN"
+  },
+  {
+    "name": "Jaipur",
+    "code": "IN"
+  },
+  {
+    "name": "Jaisalmer",
+    "code": "IN"
+  },
+  {
+    "name": "Jaitaran",
+    "code": "IN"
+  },
+  {
+    "name": "Jalor",
+    "code": "IN"
+  },
+  {
+    "name": "Jalore",
+    "code": "IN"
+  },
+  {
+    "name": "Jhalawar",
+    "code": "IN"
+  },
+  {
+    "name": "Jhalrapatan",
+    "code": "IN"
+  },
+  {
+    "name": "Jhunjhunun",
+    "code": "IN"
+  },
+  {
+    "name": "Jobner",
+    "code": "IN"
+  },
+  {
+    "name": "Jodhpur",
+    "code": "IN"
+  },
+  {
+    "name": "Kaman",
+    "code": "IN"
+  },
+  {
+    "name": "Kanor",
+    "code": "IN"
+  },
+  {
+    "name": "Kapren",
+    "code": "IN"
+  },
+  {
+    "name": "Karanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Karauli",
+    "code": "IN"
+  },
+  {
+    "name": "Kekri",
+    "code": "IN"
+  },
+  {
+    "name": "Keshorai Patan",
+    "code": "IN"
+  },
+  {
+    "name": "Khandela",
+    "code": "IN"
+  },
+  {
+    "name": "Khanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Khetri",
+    "code": "IN"
+  },
+  {
+    "name": "Kishangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Kota",
+    "code": "IN"
+  },
+  {
+    "name": "Kotputli",
+    "code": "IN"
+  },
+  {
+    "name": "Kuchaman",
+    "code": "IN"
+  },
+  {
+    "name": "Kuchera",
+    "code": "IN"
+  },
+  {
+    "name": "Kumher",
+    "code": "IN"
+  },
+  {
+    "name": "Kushalgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Lachhmangarh Sikar",
+    "code": "IN"
+  },
+  {
+    "name": "Ladnun",
+    "code": "IN"
+  },
+  {
+    "name": "Lakheri",
+    "code": "IN"
+  },
+  {
+    "name": "Lalsot",
+    "code": "IN"
+  },
+  {
+    "name": "Losal",
+    "code": "IN"
+  },
+  {
+    "name": "Mahwah",
+    "code": "IN"
+  },
+  {
+    "name": "Makrana",
+    "code": "IN"
+  },
+  {
+    "name": "Malpura",
+    "code": "IN"
+  },
+  {
+    "name": "Mandal",
+    "code": "IN"
+  },
+  {
+    "name": "Mandalgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Mandawar",
+    "code": "IN"
+  },
+  {
+    "name": "Mangrol",
+    "code": "IN"
+  },
+  {
+    "name": "Manohar Thana",
+    "code": "IN"
+  },
+  {
+    "name": "Manoharpur",
+    "code": "IN"
+  },
+  {
+    "name": "Meethari Marwar",
+    "code": "IN"
+  },
+  {
+    "name": "Merta",
+    "code": "IN"
+  },
+  {
+    "name": "Mundwa",
+    "code": "IN"
+  },
+  {
+    "name": "Nadbai",
+    "code": "IN"
+  },
+  {
+    "name": "Nagar",
+    "code": "IN"
+  },
+  {
+    "name": "Nagaur",
+    "code": "IN"
+  },
+  {
+    "name": "Nainwa",
+    "code": "IN"
+  },
+  {
+    "name": "Napasar",
+    "code": "IN"
+  },
+  {
+    "name": "Naraina",
+    "code": "IN"
+  },
+  {
+    "name": "Nasirabad",
+    "code": "IN"
+  },
+  {
+    "name": "Nathdwara",
+    "code": "IN"
+  },
+  {
+    "name": "Nawa",
+    "code": "IN"
+  },
+  {
+    "name": "Nawalgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Neem ka Thana",
+    "code": "IN"
+  },
+  {
+    "name": "Nimaj",
+    "code": "IN"
+  },
+  {
+    "name": "Nimbahera",
+    "code": "IN"
+  },
+  {
+    "name": "Niwai",
+    "code": "IN"
+  },
+  {
+    "name": "Nohar",
+    "code": "IN"
+  },
+  {
+    "name": "Nokha",
+    "code": "IN"
+  },
+  {
+    "name": "Padampur",
+    "code": "IN"
+  },
+  {
+    "name": "Pali",
+    "code": "IN"
+  },
+  {
+    "name": "Partapur",
+    "code": "IN"
+  },
+  {
+    "name": "Parvatsar",
+    "code": "IN"
+  },
+  {
+    "name": "Phalodi",
+    "code": "IN"
+  },
+  {
+    "name": "Phulera",
+    "code": "IN"
+  },
+  {
+    "name": "Pilani",
+    "code": "IN"
+  },
+  {
+    "name": "Pilibangan",
+    "code": "IN"
+  },
+  {
+    "name": "Pindwara",
+    "code": "IN"
+  },
+  {
+    "name": "Pipar",
+    "code": "IN"
+  },
+  {
+    "name": "Pirawa",
+    "code": "IN"
+  },
+  {
+    "name": "Pokaran",
+    "code": "IN"
+  },
+  {
+    "name": "Pratapgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Pushkar",
+    "code": "IN"
+  },
+  {
+    "name": "Raipur",
+    "code": "IN"
+  },
+  {
+    "name": "Raisinghnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Rajakhera",
+    "code": "IN"
+  },
+  {
+    "name": "Rajaldesar",
+    "code": "IN"
+  },
+  {
+    "name": "Rajgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Rajsamand",
+    "code": "IN"
+  },
+  {
+    "name": "Ramganj Mandi",
+    "code": "IN"
+  },
+  {
+    "name": "Ramgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Rani",
+    "code": "IN"
+  },
+  {
+    "name": "Ratangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Rawatbhata",
+    "code": "IN"
+  },
+  {
+    "name": "Rawatsar",
+    "code": "IN"
+  },
+  {
+    "name": "Ringas",
+    "code": "IN"
+  },
+  {
+    "name": "Sadri",
+    "code": "IN"
+  },
+  {
+    "name": "Salumbar",
+    "code": "IN"
+  },
+  {
+    "name": "Sambhar",
+    "code": "IN"
+  },
+  {
+    "name": "Samdari",
+    "code": "IN"
+  },
+  {
+    "name": "Sanchor",
+    "code": "IN"
+  },
+  {
+    "name": "Sangaria",
+    "code": "IN"
+  },
+  {
+    "name": "Sangod",
+    "code": "IN"
+  },
+  {
+    "name": "Sardarshahr",
+    "code": "IN"
+  },
+  {
+    "name": "Sarwar",
+    "code": "IN"
+  },
+  {
+    "name": "Sawai Madhopur",
+    "code": "IN"
+  },
+  {
+    "name": "Shahpura",
+    "code": "IN"
+  },
+  {
+    "name": "Sheoganj",
+    "code": "IN"
+  },
+  {
+    "name": "Sikar",
+    "code": "IN"
+  },
+  {
+    "name": "Sirohi",
+    "code": "IN"
+  },
+  {
+    "name": "Siwana",
+    "code": "IN"
+  },
+  {
+    "name": "Sojat",
+    "code": "IN"
+  },
+  {
+    "name": "Sri Dungargarh",
+    "code": "IN"
+  },
+  {
+    "name": "Sri Madhopur",
+    "code": "IN"
+  },
+  {
+    "name": "Sujangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Suket",
+    "code": "IN"
+  },
+  {
+    "name": "Sunel",
+    "code": "IN"
+  },
+  {
+    "name": "Surajgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Suratgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Takhatgarh",
+    "code": "IN"
+  },
+  {
+    "name": "Taranagar",
+    "code": "IN"
+  },
+  {
+    "name": "Tijara",
+    "code": "IN"
+  },
+  {
+    "name": "Todabhim",
+    "code": "IN"
+  },
+  {
+    "name": "Todaraisingh",
+    "code": "IN"
+  },
+  {
+    "name": "Tonk",
+    "code": "IN"
+  },
+  {
+    "name": "Udaipur",
+    "code": "IN"
+  },
+  {
+    "name": "Udpura",
+    "code": "IN"
+  },
+  {
+    "name": "Uniara",
+    "code": "IN"
+  },
+  {
+    "name": "Wer",
+    "code": "IN"
+  }
+]

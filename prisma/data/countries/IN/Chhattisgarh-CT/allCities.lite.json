@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Akaltara",
+    "code": "IN"
+  },
+  {
+    "name": "Ambagarh Chauki",
+    "code": "IN"
+  },
+  {
+    "name": "Ambikapur",
+    "code": "IN"
+  },
+  {
+    "name": "Arang",
+    "code": "IN"
+  },
+  {
+    "name": "Baikunthpur",
+    "code": "IN"
+  },
+  {
+    "name": "Balod",
+    "code": "IN"
+  },
+  {
+    "name": "Baloda",
+    "code": "IN"
+  },
+  {
+    "name": "Baloda Bazar",
+    "code": "IN"
+  },
+  {
+    "name": "Basna",
+    "code": "IN"
+  },
+  {
+    "name": "Bastar",
+    "code": "IN"
+  },
+  {
+    "name": "Bemetara",
+    "code": "IN"
+  },
+  {
+    "name": "Bhanpuri",
+    "code": "IN"
+  },
+  {
+    "name": "Bhatapara",
+    "code": "IN"
+  },
+  {
+    "name": "Bhatgaon",
+    "code": "IN"
+  },
+  {
+    "name": "Bhilai",
+    "code": "IN"
+  },
+  {
+    "name": "Bijapur",
+    "code": "IN"
+  },
+  {
+    "name": "Bilaspur",
+    "code": "IN"
+  },
+  {
+    "name": "Champa",
+    "code": "IN"
+  },
+  {
+    "name": "Chhuikhadan",
+    "code": "IN"
+  },
+  {
+    "name": "Deori",
+    "code": "IN"
+  },
+  {
+    "name": "Dhamtari",
+    "code": "IN"
+  },
+  {
+    "name": "Dongargaon",
+    "code": "IN"
+  },
+  {
+    "name": "Dongargarh",
+    "code": "IN"
+  },
+  {
+    "name": "Durg",
+    "code": "IN"
+  },
+  {
+    "name": "Gandai",
+    "code": "IN"
+  },
+  {
+    "name": "Gariaband",
+    "code": "IN"
+  },
+  {
+    "name": "Gaurela",
+    "code": "IN"
+  },
+  {
+    "name": "Gharghoda",
+    "code": "IN"
+  },
+  {
+    "name": "Gidam",
+    "code": "IN"
+  },
+  {
+    "name": "Jagdalpur",
+    "code": "IN"
+  },
+  {
+    "name": "Janjgir",
+    "code": "IN"
+  },
+  {
+    "name": "Janjgir-Champa",
+    "code": "IN"
+  },
+  {
+    "name": "Jashpur",
+    "code": "IN"
+  },
+  {
+    "name": "Jashpurnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Junagarh",
+    "code": "IN"
+  },
+  {
+    "name": "Kabeerdham",
+    "code": "IN"
+  },
+  {
+    "name": "Kanker",
+    "code": "IN"
+  },
+  {
+    "name": "Katghora",
+    "code": "IN"
+  },
+  {
+    "name": "Kawardha",
+    "code": "IN"
+  },
+  {
+    "name": "Khairagarh",
+    "code": "IN"
+  },
+  {
+    "name": "Khamharia",
+    "code": "IN"
+  },
+  {
+    "name": "Kharod",
+    "code": "IN"
+  },
+  {
+    "name": "Kharsia",
+    "code": "IN"
+  },
+  {
+    "name": "Kirandul",
+    "code": "IN"
+  },
+  {
+    "name": "Kondagaon",
+    "code": "IN"
+  },
+  {
+    "name": "Korba",
+    "code": "IN"
+  },
+  {
+    "name": "Koriya",
+    "code": "IN"
+  },
+  {
+    "name": "Kota",
+    "code": "IN"
+  },
+  {
+    "name": "Kotaparh",
+    "code": "IN"
+  },
+  {
+    "name": "Kumhari",
+    "code": "IN"
+  },
+  {
+    "name": "Kurud",
+    "code": "IN"
+  },
+  {
+    "name": "Lormi",
+    "code": "IN"
+  },
+  {
+    "name": "Mahasamund",
+    "code": "IN"
+  },
+  {
+    "name": "Mungeli",
+    "code": "IN"
+  },
+  {
+    "name": "Narayanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Narharpur",
+    "code": "IN"
+  },
+  {
+    "name": "Pandaria",
+    "code": "IN"
+  },
+  {
+    "name": "Pandatarai",
+    "code": "IN"
+  },
+  {
+    "name": "Pasan",
+    "code": "IN"
+  },
+  {
+    "name": "Patan",
+    "code": "IN"
+  },
+  {
+    "name": "Pathalgaon",
+    "code": "IN"
+  },
+  {
+    "name": "Pendra",
+    "code": "IN"
+  },
+  {
+    "name": "Pithora",
+    "code": "IN"
+  },
+  {
+    "name": "Raigarh",
+    "code": "IN"
+  },
+  {
+    "name": "Raipur",
+    "code": "IN"
+  },
+  {
+    "name": "Raj Nandgaon",
+    "code": "IN"
+  },
+  {
+    "name": "Raj-Nandgaon",
+    "code": "IN"
+  },
+  {
+    "name": "Ramanuj Ganj",
+    "code": "IN"
+  },
+  {
+    "name": "Ratanpur",
+    "code": "IN"
+  },
+  {
+    "name": "Sakti",
+    "code": "IN"
+  },
+  {
+    "name": "Saraipali",
+    "code": "IN"
+  },
+  {
+    "name": "Sarangarh",
+    "code": "IN"
+  },
+  {
+    "name": "Seorinarayan",
+    "code": "IN"
+  },
+  {
+    "name": "Simga",
+    "code": "IN"
+  },
+  {
+    "name": "Surguja",
+    "code": "IN"
+  },
+  {
+    "name": "Takhatpur",
+    "code": "IN"
+  },
+  {
+    "name": "Umarkot",
+    "code": "IN"
+  },
+  {
+    "name": "Uttar Bastar Kanker",
+    "code": "IN"
+  }
+]
