@@ -1,0 +1,62 @@
+[
+  {
+    "code": "can_only_sign",
+    "name": "Can only Sign"
+  },
+  {
+    "code": "literate_but_class_2_or_lower",
+    "name": "Literate but Class 2 or lower"
+  },
+  {
+    "code": "class_2_or_higher_but_class_5_or_lower",
+    "name": "Class 2 or higher but Class 5 or lower"
+  },
+  {
+    "code": "class_6_or_higher_but_class_9_or_lower",
+    "name": "Class 6 or higher but Class 9 or lower"
+  },
+  {
+    "code": "class_10_or_higher_but_class_11_or_lower",
+    "name": "Class 10 or higher but Class 11 or lower"
+  },
+  {
+    "code": "class_12",
+    "name": "Class 12"
+  },
+  {
+    "code": "completed_vocational_certificate",
+    "name": "Completed Vocational Certificate"
+  },
+  {
+    "code": "completed_diploma",
+    "name": "Completed Diploma"
+  },
+  {
+    "code": "completed_non_professional_bachelor's_degree_eg_ba_bsc_etc",
+    "name": "Completed Non-professional Bachelor's degree (eg. BA, BSc, etc.)"
+  },
+  {
+    "code": "completed_professional_bachelor's_degree_eg_btech_mbbs_etc",
+    "name": "Completed Professional Bachelor's degree (eg. BTech, MBBS, etc.)"
+  },
+  {
+    "code": "completed_professional_certification_ca_cs_etc",
+    "name": "Completed Professional Certification (CA, CS, etc.)"
+  },
+  {
+    "code": "completed_non_professional_master's_degree_eg_ma_msc_etc",
+    "name": "Completed Non-professional Master's degree (eg. MA, MSc, etc.)"
+  },
+  {
+    "code": "completed_professional_master's_degree_eg_mtech_etc",
+    "name": "Completed Professional Master's degree (eg. MTech, etc.)"
+  },
+  {
+    "code": "completed_doctorate",
+    "name": "Completed Doctorate"
+  },
+  {
+    "code": "other",
+    "name": "Other"
+  }
+]

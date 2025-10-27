@@ -1,0 +1,118 @@
+[
+  {
+    "code": "full_time_student",
+    "name": "Full-time Student"
+  },
+  {
+    "code": "not_employed_such_as_housewife",
+    "name": "Not Employed (such as housewife)"
+  },
+  {
+    "code": "unemployed_actively_seeking_employment",
+    "name": "Unemployed (actively seeking employment)"
+  },
+  {
+    "code": "retired",
+    "name": "Retired"
+  },
+  {
+    "code": "agriculture_farming_and_forestry",
+    "name": "Agriculture, Farming and Forestry"
+  },
+  {
+    "code": "architecture_and_engineering",
+    "name": "Architecture and Engineering"
+  },
+  {
+    "code": "arts_design_entertainment_sports_and_media",
+    "name": "Arts, Design, Entertainment, Sports, and Media"
+  },
+  {
+    "code": "building_and_grounds_cleaning_and_maintenance",
+    "name": "Building and Grounds Cleaning and Maintenance"
+  },
+  {
+    "code": "business_and_financial_operations",
+    "name": "Business and Financial Operations"
+  },
+  {
+    "code": "civil_services_administrative_services",
+    "name": "Civil Services (Administrative Services)"
+  },
+  {
+    "code": "community_and_social_service",
+    "name": "Community and Social Service"
+  },
+  {
+    "code": "computer_software_and_mathematical_etc",
+    "name": "Computer, Software and Mathematical, etc."
+  },
+  {
+    "code": "construction_and_extraction",
+    "name": "Construction and Extraction"
+  },
+  {
+    "code": "education_training_and_library",
+    "name": "Education, Training, and Library"
+  },
+  {
+    "code": "food_preparation_and_serving_related",
+    "name": "Food Preparation and Serving Related"
+  },
+  {
+    "code": "healthcare_practitioners_and_technical",
+    "name": "Healthcare Practitioners and Technical"
+  },
+  {
+    "code": "healthcare_support",
+    "name": "Healthcare Support"
+  },
+  {
+    "code": "installation_maintenance_and_repair",
+    "name": "Installation, Maintenance, and Repair"
+  },
+  {
+    "code": "legal",
+    "name": "Legal"
+  },
+  {
+    "code": "life_physical_and_social_science",
+    "name": "Life, Physical, and Social Science"
+  },
+  {
+    "code": "management",
+    "name": "Management"
+  },
+  {
+    "code": "military_specific",
+    "name": "Military Specific"
+  },
+  {
+    "code": "office_and_administrative_support",
+    "name": "Office and Administrative Support"
+  },
+  {
+    "code": "personal_care_and_service",
+    "name": "Personal Care and Service"
+  },
+  {
+    "code": "production",
+    "name": "Production"
+  },
+  {
+    "code": "protective_service_police_and_related",
+    "name": "Protective Service (Police and related)"
+  },
+  {
+    "code": "sales_and_related",
+    "name": "Sales and Related"
+  },
+  {
+    "code": "transportation_and_material_moving",
+    "name": "Transportation and Material Moving"
+  },
+  {
+    "code": "other",
+    "name": "Other"
+  }
+]

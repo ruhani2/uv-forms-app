@@ -1,10 +1,10 @@
 import { useEffect } from "react";
 import { useRouter } from "next/router";
-import { Box, Typography } from "@mui/material";
 import Layout from "@/layout/Layout";
+import FirstUpdesh from "@/features/firstUpdesh/FirstUpdesh";
 import { useClientAuth } from "@/hooks/useClientAuth";
 
-export default function HomePage() {
+const FirstUpdeshPage = () => {
   const router = useRouter();
   const { isLoading, isLoggedIn } = useClientAuth();
 
@@ -20,14 +20,9 @@ export default function HomePage() {
 
   return (
     <Layout>
-      <Box sx={{ p: 2 }}>
-        <Typography variant="h5" component="h1" gutterBottom>
-          Welcome to UV Forms
-        </Typography>
-        <Typography>
-          Use the navigation on the left to access the available forms.
-        </Typography>
-      </Box>
+      <FirstUpdesh />
     </Layout>
   );
-}
+};
+
+export default FirstUpdeshPage;

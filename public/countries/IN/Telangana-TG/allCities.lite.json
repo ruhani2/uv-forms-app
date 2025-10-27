@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Adilabad",
+    "code": "IN"
+  },
+  {
+    "name": "Alampur",
+    "code": "IN"
+  },
+  {
+    "name": "Andol",
+    "code": "IN"
+  },
+  {
+    "name": "Asifabad",
+    "code": "IN"
+  },
+  {
+    "name": "Balapur",
+    "code": "IN"
+  },
+  {
+    "name": "Banswada",
+    "code": "IN"
+  },
+  {
+    "name": "Bellampalli",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadrachalam",
+    "code": "IN"
+  },
+  {
+    "name": "Bhadradri Kothagudem",
+    "code": "IN"
+  },
+  {
+    "name": "Bhaisa",
+    "code": "IN"
+  },
+  {
+    "name": "Bhongir",
+    "code": "IN"
+  },
+  {
+    "name": "Bodhan",
+    "code": "IN"
+  },
+  {
+    "name": "Chandur",
+    "code": "IN"
+  },
+  {
+    "name": "Chatakonda",
+    "code": "IN"
+  },
+  {
+    "name": "Dasnapur",
+    "code": "IN"
+  },
+  {
+    "name": "Devarkonda",
+    "code": "IN"
+  },
+  {
+    "name": "Dornakal",
+    "code": "IN"
+  },
+  {
+    "name": "Farrukhnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Gaddi Annaram",
+    "code": "IN"
+  },
+  {
+    "name": "Gadwal",
+    "code": "IN"
+  },
+  {
+    "name": "Ghatkesar",
+    "code": "IN"
+  },
+  {
+    "name": "Gopalur",
+    "code": "IN"
+  },
+  {
+    "name": "Gudur",
+    "code": "IN"
+  },
+  {
+    "name": "Hyderabad",
+    "code": "IN"
+  },
+  {
+    "name": "Jagtial",
+    "code": "IN"
+  },
+  {
+    "name": "Jangaon",
+    "code": "IN"
+  },
+  {
+    "name": "Jangoan",
+    "code": "IN"
+  },
+  {
+    "name": "Jayashankar Bhupalapally",
+    "code": "IN"
+  },
+  {
+    "name": "Jogulamba Gadwal",
+    "code": "IN"
+  },
+  {
+    "name": "Kagaznagar",
+    "code": "IN"
+  },
+  {
+    "name": "Kamareddi",
+    "code": "IN"
+  },
+  {
+    "name": "Kamareddy",
+    "code": "IN"
+  },
+  {
+    "name": "Karimnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Khammam",
+    "code": "IN"
+  },
+  {
+    "name": "Kodar",
+    "code": "IN"
+  },
+  {
+    "name": "Koratla",
+    "code": "IN"
+  },
+  {
+    "name": "Kothapet",
+    "code": "IN"
+  },
+  {
+    "name": "Kottagudem",
+    "code": "IN"
+  },
+  {
+    "name": "Kottapalli",
+    "code": "IN"
+  },
+  {
+    "name": "Kukatpalli",
+    "code": "IN"
+  },
+  {
+    "name": "Kyathampalle",
+    "code": "IN"
+  },
+  {
+    "name": "Lakshettipet",
+    "code": "IN"
+  },
+  {
+    "name": "Lal Bahadur Nagar",
+    "code": "IN"
+  },
+  {
+    "name": "Mahabubabad",
+    "code": "IN"
+  },
+  {
+    "name": "Mahbubnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Malkajgiri",
+    "code": "IN"
+  },
+  {
+    "name": "Mancheral",
+    "code": "IN"
+  },
+  {
+    "name": "Mandamarri",
+    "code": "IN"
+  },
+  {
+    "name": "Manthani",
+    "code": "IN"
+  },
+  {
+    "name": "Manuguru",
+    "code": "IN"
+  },
+  {
+    "name": "Medak",
+    "code": "IN"
+  },
+  {
+    "name": "Medchal",
+    "code": "IN"
+  },
+  {
+    "name": "Medchal Malkajgiri",
+    "code": "IN"
+  },
+  {
+    "name": "Mirialguda",
+    "code": "IN"
+  },
+  {
+    "name": "Nagar Karnul",
+    "code": "IN"
+  },
+  {
+    "name": "Nalgonda",
+    "code": "IN"
+  },
+  {
+    "name": "Narayanpet",
+    "code": "IN"
+  },
+  {
+    "name": "Narsingi",
+    "code": "IN"
+  },
+  {
+    "name": "Naspur",
+    "code": "IN"
+  },
+  {
+    "name": "Nirmal",
+    "code": "IN"
+  },
+  {
+    "name": "Nizamabad",
+    "code": "IN"
+  },
+  {
+    "name": "Paloncha",
+    "code": "IN"
+  },
+  {
+    "name": "Palwancha",
+    "code": "IN"
+  },
+  {
+    "name": "Patancheru",
+    "code": "IN"
+  },
+  {
+    "name": "Peddapalli",
+    "code": "IN"
+  },
+  {
+    "name": "Quthbullapur",
+    "code": "IN"
+  },
+  {
+    "name": "Rajanna Sircilla",
+    "code": "IN"
+  },
+  {
+    "name": "Ramagundam",
+    "code": "IN"
+  },
+  {
+    "name": "Ramgundam",
+    "code": "IN"
+  },
+  {
+    "name": "Rangareddi",
+    "code": "IN"
+  },
+  {
+    "name": "Sadaseopet",
+    "code": "IN"
+  },
+  {
+    "name": "Sangareddi",
+    "code": "IN"
+  },
+  {
+    "name": "Sathupalli",
+    "code": "IN"
+  },
+  {
+    "name": "Secunderabad",
+    "code": "IN"
+  },
+  {
+    "name": "Serilingampalle",
+    "code": "IN"
+  },
+  {
+    "name": "Siddipet",
+    "code": "IN"
+  },
+  {
+    "name": "Singapur",
+    "code": "IN"
+  },
+  {
+    "name": "Sirpur",
+    "code": "IN"
+  },
+  {
+    "name": "Sirsilla",
+    "code": "IN"
+  },
+  {
+    "name": "Sriramnagar",
+    "code": "IN"
+  },
+  {
+    "name": "Suriapet",
+    "code": "IN"
+  },
+  {
+    "name": "Tandur",
+    "code": "IN"
+  },
+  {
+    "name": "Uppal Kalan",
+    "code": "IN"
+  },
+  {
+    "name": "Vemalwada",
+    "code": "IN"
+  },
+  {
+    "name": "Vikarabad",
+    "code": "IN"
+  },
+  {
+    "name": "Wanparti",
+    "code": "IN"
+  },
+  {
+    "name": "Warangal",
+    "code": "IN"
+  },
+  {
+    "name": "Yellandu",
+    "code": "IN"
+  },
+  {
+    "name": "Zahirabad",
+    "code": "IN"
+  }
+]

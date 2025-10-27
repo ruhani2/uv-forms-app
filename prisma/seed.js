@@ -84,7 +84,7 @@ async function insertCountriesAndStatesAndCities() {
 
 async function insertBranchesAndCenters() {
   const branchesAndCenters = JSON.parse(
-    fs.readFileSync("./prisma/data/branch_and_centers.json", "utf-8")
+    fs.readFileSync("./prisma/data/branch_and_centres.json", "utf-8")
   );
 
   for (const item of branchesAndCenters) {

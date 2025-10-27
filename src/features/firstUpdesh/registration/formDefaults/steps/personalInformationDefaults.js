@@ -1,0 +1,43 @@
+export const personalInformationDefaults = {
+  applicant: {
+    gender: "female",
+    employmentStatus: "employed",
+    maritalStatus: "unmarried",
+    prefix: "SH",
+    firstName: "",
+    middleName: "",
+    lastName: "",
+    uid: "",
+    biometric: true,
+    dateOfRegistrationAsJigyasu: null,
+    caste: "GN",
+    healthStatus: "healthy",
+    phone: {
+      code: "+91",
+      number: "",
+    },
+    email: "",
+    involvedInPolitics: "no",
+    preliminaryBooks: {
+      jigyasa: false,
+      matDarshan: false,
+      catechism: false,
+    },
+    dateOfBirth: {
+      date: null,
+      years: 0,
+      months: 0,
+    },
+    appliedEarlier: "No",
+    letterNo: "",
+    replyGivenBySabha: "",
+    dateOfLetter: null,
+    alreadyInitiated: {
+      acknowledged: false,
+      initiatedAt: null,
+      initiatedBy: "",
+      placeOfInitiation: "",
+      reasonToRelinquish: "",
+    },
+  },
+};
