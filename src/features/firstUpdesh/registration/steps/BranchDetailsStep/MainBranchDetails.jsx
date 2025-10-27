@@ -1,10 +1,10 @@
 import CentreDetails from "./CentreDetails";
 import BranchDetails from "./BranchDetails";
-import { getLoggedInUser } from "@/utils/auth";
+import { useSession } from "next-auth/react";
 
 const MainBranchDetails = ({ namePrefix }) => {
-  const loggedInUser = getLoggedInUser();
-  const role = loggedInUser?.role ?? null;
+  const { data: session } = useSession();
+  const role = session?.user?.role ?? null;
 
   return (
     <>

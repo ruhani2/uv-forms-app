@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {
   Card,
   CardContent,
@@ -11,8 +11,12 @@ import {
 import { useForm, FormProvider, Controller } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { loginValidationSchema } from "./schema/loginSchema";
+import { signIn } from "next-auth/react";
+import { useRouter } from "next/router";
 
 const Login = () => {
+  const router = useRouter();
+  const [authError, setAuthError] = useState("");
   const methods = useForm({
     resolver: zodResolver(loginValidationSchema),
     mode: "onSubmit",
@@ -21,29 +25,19 @@ const Login = () => {
 
   const { handleSubmit, control } = methods;
 
-  const onSubmit = (data) => {
-    // Set role as admin if uid is Test123, else user
-    let role;
-    if (data.uid === "Branch Secretary") {
-      role = "branch_secretary";
-    } else if (data.uid === "Centre Incharge") {
-      role = "centre_incharge";
-    } else {
-      role = "admin";
-    }
+  const onSubmit = async (data) => {
+    setAuthError("");
+    const result = await signIn("credentials", {
+      redirect: false,
+      uid: data.uid,
+      password: data.password,
+    });
 
-    localStorage.setItem(
-      "user",
-      JSON.stringify({
-        uid: data.uid,
-        role,
-        branch: "Faridabad",
-        centre: "Central Satsang Dayalbagh",
-      })
-    );
-    localStorage.setItem("role", role);
-    localStorage.setItem("isLoggedIn", "true");
-    window.location.href = "/first_updesh/register";
+    if (result?.ok && !result.error) {
+      router.replace("/first_updesh/register");
+    } else {
+      setAuthError("Invalid credentials. Please check your UID and password.");
+    }
   };
 
   return (
@@ -113,6 +107,15 @@ const Login = () => {
               >
                 Login
               </Button>
+              {authError && (
+                <Typography
+                  variant="body2"
+                  color="error"
+                  sx={{ mt: 1, textAlign: "center" }}
+                >
+                  {authError}
+                </Typography>
+              )}
             </form>
           </FormProvider>
         </CardContent>

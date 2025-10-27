@@ -1,17 +1,4 @@
-import { getLoggedInUser } from "@/utils/auth";
-
-const loggedInUser = getLoggedInUser();
-let role;
-let branch;
-let centre;
-
-if (loggedInUser !== null) {
-  role = loggedInUser.role;
-  branch = loggedInUser.branch;
-  centre = loggedInUser.centre;
-}
-
-export const facilityDefaults = {
+export const createFacilityDefaults = (loggedInUser) => ({
   applicant: {
     currentBranchDetails: {
       audioSatsangAttendance: {
@@ -98,4 +85,4 @@ export const facilityDefaults = {
       relatedToCentreIncharge: "no",
     },
   },
-};
+});

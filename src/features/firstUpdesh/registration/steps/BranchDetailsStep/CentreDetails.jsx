@@ -12,7 +12,7 @@ import { useEffect } from "react";
 import { Controller, useFormContext, useWatch } from "react-hook-form";
 import NameInformation from "../PersonalInformationStep/NameInformation";
 import Address from "../../../../../shared/Address";
-import { getLoggedInUser } from "@/utils/auth";
+import { useSession } from "next-auth/react";
 
 const CentreDetails = ({ namePrefix }) => {
   const { control, watch, setValue } = useFormContext();
@@ -46,10 +46,11 @@ const CentreDetails = ({ namePrefix }) => {
     name: `${namePrefix}.currentCentreDetails.relatedToCentreIncharge`,
   });
 
-  const loggedInUser = getLoggedInUser();
-  const role = loggedInUser?.role ?? null;
-  const branch = loggedInUser?.branch ?? "";
-  const centre = loggedInUser?.centre ?? "";
+  const { data: session } = useSession();
+  const user = session?.user ?? null;
+  const role = user?.role ?? null;
+  const branch = user?.branch ?? "";
+  const centre = user?.centre ?? "";
 
   const facility = role === "centre_incharge" ? "Centre" : "Branch";
   const modifiedRole =

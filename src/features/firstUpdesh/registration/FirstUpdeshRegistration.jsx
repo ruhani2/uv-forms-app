@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-import { useState, lazy, Suspense, useCallback, useMemo } from "react";
+import { useState, lazy, Suspense, useCallback, useMemo, useEffect } from "react";
 import SearchBar from "../../../shared/Search";
 import { FormProvider, useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -7,7 +7,7 @@ import {
   isSpousePageRequired,
   isGuardianPageRequired,
 } from "./utils/registrationUtils";
-import { getLoggedInUser } from "../../../utils/auth";
+import { useSession } from "next-auth/react";
 
 // components
 const PersonalInformationStep = lazy(() =>
@@ -47,16 +47,18 @@ import { parentsDetailsDefaults } from "./formDefaults/steps/parentsDetailsDefau
 import { satsangAttendanceDefaults } from "./formDefaults/steps/satsangAttendanceDefaults";
 import { dayalbaghVisitsDefaults } from "./formDefaults/steps/dayalbaghVisitsDefaults";
 import { spouseAndGuardianDefaults } from "./formDefaults/steps/spouseAndGurdianDefaults";
-import { firstUpdeshRegistrationDefaults } from "./formDefaults/steps/firstUpdeshRegistrationDefaults";
+import { createFirstUpdeshRegistrationDefaults } from "./formDefaults/steps/firstUpdeshRegistrationDefaults";
 import { currentBranchDetailsSchema } from "./schema/steps/currentLocationSchema";
 
 export default function FirstUpdeshRegistration() {
   const [step, setStep] = useState(0);
 
-  const loggedInUser = useMemo(() => getLoggedInUser(), []);
-  const role = loggedInUser?.role ?? null;
-  const branch = loggedInUser?.branch ?? "";
-  const centre = loggedInUser?.centre ?? "";
+  const { data: session, status } = useSession();
+  const user = session?.user ?? null;
+  const defaults = useMemo(
+    () => createFirstUpdeshRegistrationDefaults(user),
+    [user]
+  );
 
   const steps = [
     {
@@ -117,8 +119,14 @@ export default function FirstUpdeshRegistration() {
     mode: "onChange",
     reValidateMode: "onBlur",
     shouldUnregister: false,
-    defaultValues: firstUpdeshRegistrationDefaults,
+    defaultValues: defaults,
   });
+
+  useEffect(() => {
+    if (status === "authenticated") {
+      methods.reset(createFirstUpdeshRegistrationDefaults(user));
+    }
+  }, [status, user, methods]);
 
   const {
     formState: { isValid },

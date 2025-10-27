@@ -12,6 +12,7 @@ import {
 } from "@mui/material";
 import NextLink from "next/link";
 import { useRouter } from "next/router";
+import { useSession, signOut } from "next-auth/react";
 import MenuIcon from "@mui/icons-material/Menu";
 import MenuOpenIcon from "@mui/icons-material/MenuOpen";
 import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
@@ -28,23 +29,14 @@ const LinkBehavior = forwardRef(function LinkBehavior(props, ref) {
 
 const Sidebar = ({ size, collapsed, onToggle }) => {
   const router = useRouter();
-
-  const handleLogout = () => {
-    if (typeof window !== "undefined") {
-      localStorage.removeItem("user");
-      localStorage.removeItem("role");
-      localStorage.removeItem("isLoggedIn");
-    }
-    router.push("/login");
-  };
-
-  const loggedInUser =
-    typeof window !== "undefined"
-      ? JSON.parse(localStorage.getItem("user") || "null")
-      : null;
-  const role = loggedInUser?.role ?? null;
+  const { data: session } = useSession();
+  const user = session?.user ?? null;
 
   const currentPath = router.asPath || router.pathname || "/";
+
+  const handleLogout = () => {
+    signOut({ callbackUrl: "/login" });
+  };
 
   const navItems = [
     {
@@ -53,7 +45,7 @@ const Sidebar = ({ size, collapsed, onToggle }) => {
       icon: <HomeOutlinedIcon fontSize="small" />,
       to: "/",
     },
-    role === "admin"
+    user?.role === "admin"
       ? {
           id: "bhandara",
           label: "Bhandara",
@@ -123,6 +115,8 @@ const Sidebar = ({ size, collapsed, onToggle }) => {
     if (item.to) {
       buttonProps.component = LinkBehavior;
       buttonProps.href = item.to;
+    } else if (item.onClick) {
+      buttonProps.onClick = item.onClick;
     }
 
     const button = (
@@ -195,7 +189,13 @@ const Sidebar = ({ size, collapsed, onToggle }) => {
         </IconButton>
       </Toolbar>
       <Box sx={{ overflow: "auto" }}>
-        <List disablePadding>{navItems.map(renderNavItem)}</List>
+        <List disablePadding>
+          {navItems.map((item) =>
+            item.id === "logout"
+              ? renderNavItem({ ...item, onClick: handleLogout })
+              : renderNavItem(item)
+          )}
+        </List>
       </Box>
     </Drawer>
   );
