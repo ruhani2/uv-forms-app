@@ -15,7 +15,6 @@ const UidInputField = ({ namePrefix }) => {
           size="small"
           label="UID"
           fullWidth
-          disabled
           error={!!fieldState.error}
           helperText={fieldState.error?.message}
         />

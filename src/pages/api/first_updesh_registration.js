@@ -4,38 +4,44 @@ const prisma = new PrismaClient();
 
 export default async function handler(req, res) {
   if (req.method === "POST") {
+    console.log("Data incoming", req.body);
+
     try {
       const {
-        gender,
-        maritalStatus,
-        prefix,
-        firstName,
-        middleName,
-        lastName,
-        uid,
-        biometric,
-        dateOfRegistrationAsJigyasu,
-        caste,
-        healthStatus,
-        phone: { code, number },
-        email,
-        involvedInPolitics,
-        preliminaryBooks,
-        dateOfBirth: { date, years, months },
-        appliedEarlier,
-        letterNo,
-        replyGivenBySabha,
-        dateOfLetter,
-        alreadyInitiated: {
-          acknowledged,
-          initiatedAt,
-          initiatedBy,
-          placeOfInitiation,
-          reasonToRelinquish,
+        applicant: {
+          gender,
+          maritalStatus,
+          prefix,
+          firstName,
+          middleName,
+          lastName,
+          uid,
+          biometric,
+          dateOfRegistrationAsJigyasu,
+          caste,
+          healthStatus,
+          phone: { code, number },
+          email,
+          involvedInPolitics,
+          preliminaryBooks,
+          dateOfBirth: { date, years, months },
+          appliedEarlier,
+          letterNo,
+          replyGivenBySabha,
+          dateOfLetter,
+          alreadyInitiated: {
+            acknowledged,
+            initiatedAt,
+            initiatedBy,
+            placeOfInitiation,
+            reasonToRelinquish,
+          },
         },
       } = req.body;
 
       const firstBhandara = await prisma.bhandara.findFirst();
+
+      console.log("Applicant data incoming:", req.body.applicant);
 
       if (!firstBhandara) {
         return res
@@ -60,33 +66,51 @@ export default async function handler(req, res) {
           gender,
           maritalStatus,
           healthStatus,
-          dateOfBirth: date ? new Date(date) : null,
-          ageYears: years,
-          ageMonths: months,
-          connectedToPolitics: involvedInPolitics,
-          email: { emailAddress: email },
-          phoneNumber: { code, number },
+          dateOfBirth: date ? new Date(date).toISOString() : null,
+          ageInYears: years,
+          ageInMonths: months,
+          connectedToPolitics: Boolean(involvedInPolitics),
+          email: email
+            ? {
+                create: {
+                  emailAddress: email,
+                },
+              }
+            : undefined,
+          phoneNumber: {
+            create: {
+              code,
+              number,
+            },
+          },
           alreadyInitiated: {
-            acknowledged,
-            initiatedAt: initiatedAt ? new Date(initiatedAt) : null,
-            initiatedBy,
-            placeOfInitiation,
-            reasonToRelinquish,
+            create: {
+              acknowledged,
+              initiatedAt: initiatedAt ? new Date(initiatedAt) : null,
+              initiatedBy,
+              place: placeOfInitiation,
+              reasonToRelinquish,
+            },
           },
           appliedEarlier: {
-            acknowledged: appliedEarlier === "Yes",
-            letterNo,
-            replyGivenBySabha,
-            dateOfLetter: dateOfLetter ? new Date(dateOfLetter) : null,
+            create: {
+              acknowledged: appliedEarlier === "Yes",
+              letterNo,
+              replyGivenBySabha,
+              dateOfLetter: dateOfLetter
+                ? new Date(dateOfLetter).toUTCString()
+                : null,
+            },
           },
           booksRead: JSON.stringify(preliminaryBooks),
           jigyasuRegistrationDate: dateOfRegistrationAsJigyasu
-            ? new Date(dateOfRegistrationAsJigyasu)
+            ? new Date(dateOfRegistrationAsJigyasu).toISOString()
             : null,
           isBiometricAvailable: biometric,
           bhandaraId: firstBhandara.id,
           createdByUserId: dummyCreatedByUserId,
           updatedByUserId: dummyUpdatedByUserId,
+          updeshRegistrationDate: new Date().toISOString(),
         },
       });
 
